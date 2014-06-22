@@ -1,0 +1,2593 @@
+<?xml version="1.0" encoding="UTF-8"?><iati-activities version="1.03" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xmlns:xsd="http://www.w3.org/2001/XMLSchema" generated-datetime="2014-06-22T03:28:09">
+<iati-activity default-currency="USD" last-updated-datetime="2014-06-22T03:28:09" xml:lang="en" hierarchy="1">
+<reporting-org ref="47045" type="40">The Global Fund to Fight AIDS, Tuberculosis and Malaria</reporting-org>
+<iati-identifier>47045-RUS-304-G01-H</iati-identifier>
+<title xml:lang="en">Stimulating an Effective National Response to HIV/AIDS in the Russian Federation</title>
+<description type="1">Initially the Russian Federation’s HIV epidemic was almost exclusively spread through drug use and the sharing of contaminated needles, but heterosexual transmission is growing. The program supported by this grant aims to address the serious HIV and AIDS epidemic unfolding in the Russian Federation. It represents an integrated approach to improve the knowledge level of youth and the general population and addresses prevention among specific vulnerable groups including injecting drug users, sex workers, street children, men who have sex with men and prisoners. In addition, a treatment, care, health promotion and social support module addresses the needs of people living with HIV. The program also includes an advocacy module to improve the participation and effectiveness of government counterparts in HIV and AIDS policy. The grant term has been extended by two years for the provision of lifesaving prevention services to highly vulnerable groups such as injecting drug users, sex workers and men who have sex with men. The HIV prevention program supported by the grant operates through a consortium of nongovernmental organizations called GLOBUS in ten of the country’s 83 administrative regions.</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2004-08-15" />
+<activity-date type="start-planned" iso-date="2004-08-15" />
+<activity-date type="end-planned" iso-date="2014-12-31" />
+<activity-date type="end-actual" iso-date="2014-12-31" />
+<sector code="13040" />
+<sector code="2" />
+<sector code="2" />
+<sector code="2" />
+<sector code="2" />
+<sector code="2" />
+<contact-info>
+<organisation>The Global Fund to Fight AIDS, Tuberculosis and Malaria</organisation>
+<person-name>Valeria, Grishechkina</person-name>
+<email>Valeria.Grishechkina@theglobalfund.org</email>
+</contact-info>
+<participating-org role="Funding" ref="47045" xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</participating-org>
+<participating-org role="Implementing" type="Private Sector" xml:lang="en">Open Health Institute</participating-org>
+<recipient-country code="RU">Russian Federation</recipient-country>
+<activity-scope code="4" xml:lang="en">National</activity-scope>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-flow-type code="10">ODA</default-flow-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<conditions attached="1">
+<condition type="1">&lt;p&gt;
+	The PR should request from the Minister an official communication that will call on the Regional Health Directors to integrate and make the optimal use of the regional planners&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) The PR should provide guidance and regular supervision to the regional planners&lt;br /&gt;
+	2) Medical regions should provide support to the regional planners to allow them to carry out the supervisions (transport)&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) Procedures developed by the DLSI need to be shared and followed at all levels&lt;br /&gt;
+	2) The PR should rapidly instruct regional and district teams on the reporting requirements of the GF&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) PR to maintain the CCM and LFA informed about the programmatic progress made in the intervals.&lt;br /&gt;
+	2) In phase 2, all indicators should be reported on a semester basis (rehabilitations and blood bags)&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) Strict implementation of the written procedures regarding asset management and tracking mechanism&lt;br /&gt;
+	2) Submission of a comprehensive inventory after one year of programme execution&lt;br /&gt;
+	3) Subscription to insurance contracts for offices and equipment&lt;br /&gt;
+	4) Fire protection measures&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) Review the coordination mechanism between DEM and DLSI for the follow-up of rehabilitations&lt;br /&gt;
+	2) PR should share proposal and ToR for contracting an external architect to monitor the works and ensure the cost is covered in the budget&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) The PR should be careful when defining the terms of the contract with private firms for equipment maintenance&lt;br /&gt;
+	2) The PR should clearly define the role of the DEM in the maintenance scheme&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) The PR should elaborate the contract for procurement with the PNA in full respect of the written procedures (national regulations &amp;amp; manual of procedures).&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) The PR should provide the list of equipment procured and destination&lt;br /&gt;
+	2) Regional planners should follow-up on the installation of equipment&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) The Top management of the DLSI should make sure that the Fiduciary Agent is fully playing its role and is taking part in coordination mechanisms of the GF program&lt;br /&gt;
+	2)&amp;nbsp;Prepare a transition plan after the end of the contract with the Fiduciary Agency at the end of 2012.&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) Strict implementation of the written procedures regarding asset management and tracking mechanism&lt;br /&gt;
+	2) Submission of a comprehensive inventory after one year of programme execution&lt;br /&gt;
+	3) Subscription to insurance contracts for offices and equipment&lt;br /&gt;
+	4) Fire protection measures&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) Review the coordination mechanism between DEM and DLSI for the follow-up of rehabilitations&lt;br /&gt;
+	2) PR should share proposal and ToR for contracting an external architect to monitor the works and ensure the cost is covered in the budget&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) The PR should be careful when defining the terms of the contract with private firms for equipment maintenance&lt;br /&gt;
+	2) The PR should clearly define the role of the DEM in the maintenance scheme&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) The PR should elaborate the contract for procurement with the PNA in full respect of the written procedures (national regulations &amp;amp; manual of procedures).&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) The PR should provide the list of equipment procured and destination&lt;br /&gt;
+	2) Regional planners should follow-up on the installation of equipment&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</condition>
+</conditions>
+<collaboration-type code="4" />
+<budget type="1">
+<period-end iso-date="2014-12-31" />
+<value value-date="2014-12-31"  currency="USD">594835</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2014-09-30" />
+<value value-date="2014-09-30"  currency="USD">584285</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2014-06-30" />
+<value value-date="2014-06-30"  currency="USD">652616</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2014-03-31" />
+<value value-date="2014-03-31"  currency="USD">1400571</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2013-12-31" />
+<value value-date="2013-12-31"  currency="USD">601834</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2013-09-30" />
+<value value-date="2013-09-30"  currency="USD">556513</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2013-06-30" />
+<value value-date="2013-06-30"  currency="USD">642227</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2013-03-31" />
+<value value-date="2013-03-31"  currency="USD">1448700</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2012-12-31" />
+<value value-date="2012-12-31"  currency="USD">517704</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2012-09-30" />
+<value value-date="2012-09-30"  currency="USD">824377</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2012-06-30" />
+<value value-date="2012-06-30"  currency="USD">110096</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2012-04-30" />
+<value value-date="2012-04-30"  currency="USD">346980</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2011-12-31" />
+<value value-date="2011-12-31"  currency="USD">1147103</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2011-09-30" />
+<value value-date="2011-09-30"  currency="USD">2737184</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2011-06-30" />
+<value value-date="2011-06-30"  currency="USD">2712931</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2011-03-31" />
+<value value-date="2011-03-31"  currency="USD">4967024</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2010-12-31" />
+<value value-date="2010-12-31"  currency="USD">2177227</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2010-09-30" />
+<value value-date="2010-09-30"  currency="USD">5965083</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2010-06-30" />
+<value value-date="2010-06-30"  currency="USD">1407819</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2010-03-31" />
+<value value-date="2010-03-31"  currency="USD">1254445</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2009-08-31" />
+<value value-date="2009-08-31"  currency="USD">7189391</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2009-03-31" />
+<value value-date="2009-03-31"  currency="USD">7319140</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2008-09-30" />
+<value value-date="2008-09-30"  currency="USD">11624084</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2008-03-31" />
+<value value-date="2008-03-31"  currency="USD">11788285</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2007-09-30" />
+<value value-date="2007-09-30"  currency="USD">7097301</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2007-03-31" />
+<value value-date="2007-03-31"  currency="USD">11358690</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2006-09-30" />
+<value value-date="2006-09-30"  currency="USD">5879672</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2006-03-31" />
+<value value-date="2006-03-31"  currency="USD">10946414</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2005-09-30" />
+<value value-date="2005-09-30"  currency="USD">7015387</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2005-03-31" />
+<value value-date="2005-03-31"  currency="USD">7754834</value>
+</budget>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="0001-01-01" currency="USD">118170086</value>
+<transaction-date iso-date="0001-01-01" />
+</transaction>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="0001-01-01" currency="USD">118170086</value>
+<transaction-date iso-date="0001-01-01" />
+</transaction>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="0001-01-01" currency="USD">118170086</value>
+<transaction-date iso-date="0001-01-01" />
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-07-01" currency="USD">6032800</value>
+<transaction-date iso-date="2010-07-01" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-09-23" currency="USD">6075393</value>
+<transaction-date iso-date="2010-09-23" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-12-23" currency="USD">1205358</value>
+<transaction-date iso-date="2011-12-23" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2012-08-06" currency="USD">1173488</value>
+<transaction-date iso-date="2012-08-06" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2013-03-07" currency="USD">1627355</value>
+<transaction-date iso-date="2013-03-07" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-12-09" currency="USD">2400000</value>
+<transaction-date iso-date="2009-12-09" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-04-06" currency="USD">6550301</value>
+<transaction-date iso-date="2011-04-06" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-06-04" currency="USD">13790000</value>
+<transaction-date iso-date="2008-06-04" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2004-08-27" currency="USD">10900000</value>
+<transaction-date iso-date="2004-08-27" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2005-05-23" currency="USD">11430950</value>
+<transaction-date iso-date="2005-05-23" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-08-10" currency="USD">7058166</value>
+<transaction-date iso-date="2006-08-10" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-06-28" currency="USD">2664400</value>
+<transaction-date iso-date="2006-06-28" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2005-12-19" currency="USD">6600957</value>
+<transaction-date iso-date="2005-12-19" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-12-05" currency="USD">7640850</value>
+<transaction-date iso-date="2006-12-05" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2007-06-27" currency="USD">10879477</value>
+<transaction-date iso-date="2007-06-27" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2007-12-07" currency="USD">8849500</value>
+<transaction-date iso-date="2007-12-07" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-12-12" currency="USD">8928054</value>
+<transaction-date iso-date="2008-12-12" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2013-11-11" currency="USD">1588862</value>
+<transaction-date iso-date="2013-11-11" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2013-05-28" currency="USD">421186</value>
+<transaction-date iso-date="2013-05-28" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2013-07-31" currency="USD">659545</value>
+<transaction-date iso-date="2013-07-31" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2014-06-12" currency="USD">1578955</value>
+<transaction-date iso-date="2014-06-12" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GPR_0_en/" format="application/pdf">
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Grant Performance Report   (PDF 272 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GPR_0_en/" format="application/pdf">
+<category code="A04">Conditions</category>
+<title xml:lang="en">Grant Performance Report   (PDF 272 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GPR_0_en/" format="application/pdf">
+<category code="A05">Budget</category>
+<title xml:lang="en">Grant Performance Report   (PDF 272 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GPR_0_en/" format="application/pdf">
+<category code="A06">Summary information about contract</category>
+<title xml:lang="en">Grant Performance Report   (PDF 272 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GPR_0_en/" format="application/pdf">
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Performance Report   (PDF 272 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GPR_0_en/" format="application/pdf">
+<category code="A08">Results, outcomes and outputs</category>
+<title xml:lang="en">Grant Performance Report   (PDF 272 KB)</title>
+</document-link>
+
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GSC_0_en/" format="application/pdf">
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Grant Scorecard   (PDF 91 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GSC_0_en/" format="application/pdf">
+<category code="A04">Conditions</category>
+<title xml:lang="en">Grant Scorecard   (PDF 91 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GSC_0_en/" format="application/pdf">
+<category code="A05">Budget</category>
+<title xml:lang="en">Grant Scorecard   (PDF 91 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GSC_0_en/" format="application/pdf">
+<category code="A06">Summary information about contract</category>
+<title xml:lang="en">Grant Scorecard   (PDF 91 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GSC_0_en/" format="application/pdf">
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Scorecard   (PDF 91 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GSC_0_en/" format="application/pdf">
+<category code="A08">Results, outcomes and outputs</category>
+<title xml:lang="en">Grant Scorecard   (PDF 91 KB)</title>
+</document-link>
+
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GA_0_en/" format="application/pdf">
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 819 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GA_1_en/" format="application/pdf">
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Amended and Restated Program Grant Agreement   (PDF 11 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GA_0_en/" format="application/pdf">
+<category code="A04">Conditions</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 819 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GA_1_en/" format="application/pdf">
+<category code="A04">Conditions</category>
+<title xml:lang="en">Amended and Restated Program Grant Agreement   (PDF 11 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GA_0_en/" format="application/pdf">
+<category code="A05">Budget</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 819 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GA_1_en/" format="application/pdf">
+<category code="A05">Budget</category>
+<title xml:lang="en">Amended and Restated Program Grant Agreement   (PDF 11 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GA_0_en/" format="application/pdf">
+<category code="A06">Summary information about contract</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 819 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GA_1_en/" format="application/pdf">
+<category code="A06">Summary information about contract</category>
+<title xml:lang="en">Amended and Restated Program Grant Agreement   (PDF 11 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GA_0_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 819 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_GA_1_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Amended and Restated Program Grant Agreement   (PDF 11 MB)</title>
+</document-link>
+
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_IL_7_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Implementation Letter  7 (PDF 1 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_IL_8_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Implementation Letter  8 (PDF 441 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_IL_10_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Implementation Letter  10 (PDF 1 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_IL_11_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Implementation Letter  11 (PDF 1 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G01-H_IL_12_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Implementation Letter  12 (PDF 464 KB)</title>
+</document-link>
+
+
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number and percentage of CSW reached by HIV/AIDS prevention outreach services in targeted regions</title>
+<period>
+<period-start iso-date="2013-07-01" />
+<period-end iso-date="2013-07-01" />
+<target value="N: 6,000
+D: 28,252
+P: 21.2 %" />
+<actual value="N: 5,642
+D: 28,252
+P: 20 %" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number and percentage of IDUs reached by HIV/AIDS prevention services in targeted regions </title>
+<period>
+<period-start iso-date="2013-07-01" />
+<period-end iso-date="2013-07-01" />
+<target value="N: 10,000
+D: 163,170
+P: 6.1 %" />
+<actual value="N: 9,741
+D: 163,170
+P: 6 %" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number and percentage of MSM reached by HIV prevention services in targeted regions</title>
+<period>
+<period-start iso-date="2013-07-01" />
+<period-end iso-date="2013-07-01" />
+<target value="N: 3,600
+D: 105,975
+P: 3.4 %" />
+<actual value="N: 8,425
+D: 105,975
+P: 7.9 %" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of condoms distributed among targeted groups (youth, MSM, IDUs, CSWs, migrant workers, prisoners, street childredn, PLWH)</title>
+<period>
+<period-start iso-date="2013-07-01" />
+<period-end iso-date="2013-07-01" />
+<target value="2,056,060" />
+<actual value="2,061,137" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of prisoners reached by HIV prevention services in targeted regions</title>
+<period>
+<period-start iso-date="2013-07-01" />
+<period-end iso-date="2013-07-01" />
+<target value="1,400" />
+<actual value="1,422" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of prisoners reached by transitional HIV prevention case management (PCM) services in targeted regions</title>
+<period>
+<period-start iso-date="2013-07-01" />
+<period-end iso-date="2013-07-01" />
+<target value="300" />
+<actual value="333" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of syringes distributed per person who injects drugs in targeted regions per reported period.</title>
+<period>
+<period-start iso-date="2013-07-01" />
+<period-end iso-date="2013-07-01" />
+<target value="150" />
+<actual value="169" />
+</period>
+</indicator>
+</result>
+<location>
+<location-type code="PCL" />
+<name xml:lang="en">Russian Federation</name>
+<description>Russian Federation</description>
+<administrative country="RUS">Russian Federation</administrative>
+</location>
+<activity-website>http://portfolio.theglobalfund.org/en/Grant/Index/RUS-304-G01-H</activity-website>
+</iati-activity>
+<iati-activity default-currency="USD" last-updated-datetime="2014-06-22T03:28:14" xml:lang="en" hierarchy="1">
+<reporting-org ref="47045" type="40">The Global Fund to Fight AIDS, Tuberculosis and Malaria</reporting-org>
+<iati-identifier>47045-RUS-304-G02-T</iati-identifier>
+<title xml:lang="en">The Tomsk Oblast Comprehensive Strategy to Contain and Control Tuberculosis</title>
+<description type="1">The Russian Federation experienced a dramatic increase in TB towards the end of the last century and although incidence rates have begun to level off, they remain high. The program supported by this grant will address the high rates of TB infection, especially multidrug-resistant TB, and rapidly rising rates of HIV infection in the Tomsk Oblast in Russia. Intensive expansion is planned for the treatment of the majority of TB cases already registered, thus decreasing the number of new cases and death rates. Several strategies are being applied to improve patients’ adherence to treatment and to decrease the rate of treatment failures, including the use of incentives for treatment, training of the medical personnel who provide DOTS, as well as treatment of alcoholism in TB patients. In addition, the main TB facilities and bacteriological laboratories are being provided with new infection control equipment, and new methods of rapid TB diagnosis are being introduced.</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2004-12-01" />
+<activity-date type="start-planned" iso-date="2004-12-01" />
+<activity-date type="end-planned" iso-date="2014-01-02" />
+<activity-date type="end-actual" iso-date="2014-01-02" />
+<sector code="12263" />
+<contact-info>
+<organisation>The Global Fund to Fight AIDS, Tuberculosis and Malaria</organisation>
+<person-name>Valeria, Grishechkina</person-name>
+<email>Valeria.Grishechkina@theglobalfund.org</email>
+</contact-info>
+<participating-org role="Funding" ref="47045" xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</participating-org>
+<participating-org role="Implementing" type="Private Sector" xml:lang="en">Partners In Health</participating-org>
+<recipient-country code="RU">Russian Federation</recipient-country>
+<activity-scope code="4" xml:lang="en">National</activity-scope>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-flow-type code="10">ODA</default-flow-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<conditions attached="0" />
+<collaboration-type code="4" />
+<budget type="1">
+<period-end iso-date="2011-12-31" />
+<value value-date="2011-12-31"  currency="USD">729530</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2011-09-30" />
+<value value-date="2011-09-30"  currency="USD">599987</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2011-06-30" />
+<value value-date="2011-06-30"  currency="USD">748944</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2011-03-31" />
+<value value-date="2011-03-31"  currency="USD">554035</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2010-12-31" />
+<value value-date="2010-12-31"  currency="USD">522651</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2010-09-30" />
+<value value-date="2010-09-30"  currency="USD">400110</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2010-06-30" />
+<value value-date="2010-06-30"  currency="USD">586987</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2010-03-31" />
+<value value-date="2010-03-31"  currency="USD">293876</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2009-11-30" />
+<value value-date="2009-11-30"  currency="USD">289015</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2009-08-31" />
+<value value-date="2009-08-31"  currency="USD">299702</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2009-05-31" />
+<value value-date="2009-05-31"  currency="USD">343847</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2009-02-28" />
+<value value-date="2009-02-28"  currency="USD">330762</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2008-11-30" />
+<value value-date="2008-11-30"  currency="USD">303902</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2008-08-31" />
+<value value-date="2008-08-31"  currency="USD">321336</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2008-05-31" />
+<value value-date="2008-05-31"  currency="USD">348995</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2008-02-29" />
+<value value-date="2008-02-29"  currency="USD">368441</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2007-11-30" />
+<value value-date="2007-11-30"  currency="USD">567976</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2007-08-31" />
+<value value-date="2007-08-31"  currency="USD">463316</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2007-05-31" />
+<value value-date="2007-05-31"  currency="USD">596918</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2007-02-28" />
+<value value-date="2007-02-28"  currency="USD">588005</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2006-11-30" />
+<value value-date="2006-11-30"  currency="USD">417215</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2006-08-31" />
+<value value-date="2006-08-31"  currency="USD">676673</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2006-05-31" />
+<value value-date="2006-05-31"  currency="USD">914364</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2006-02-28" />
+<value value-date="2006-02-28"  currency="USD">708048</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2005-11-30" />
+<value value-date="2005-11-30"  currency="USD">406502</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2005-08-31" />
+<value value-date="2005-08-31"  currency="USD">463316</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2005-05-31" />
+<value value-date="2005-05-31"  currency="USD">596918</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2005-02-28" />
+<value value-date="2005-02-28"  currency="USD">1761235</value>
+</budget>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="0001-01-01" currency="USD">18734176</value>
+<transaction-date iso-date="0001-01-01" />
+</transaction>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="0001-01-01" currency="USD">18734176</value>
+<transaction-date iso-date="0001-01-01" />
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2013-06-17" currency="USD">-1</value>
+<transaction-date iso-date="2013-06-17" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2013-06-17" currency="USD">615</value>
+<transaction-date iso-date="2013-06-17" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-02-09" currency="USD">1339146</value>
+<transaction-date iso-date="2010-02-09" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-11-16" currency="USD">1380457</value>
+<transaction-date iso-date="2010-11-16" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2012-11-01" currency="USD">53212</value>
+<transaction-date iso-date="2012-11-01" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2013-02-13" currency="USD">476179</value>
+<transaction-date iso-date="2013-02-13" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2012-11-01" currency="USD">237636</value>
+<transaction-date iso-date="2012-11-01" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-11-30" currency="USD">1214463</value>
+<transaction-date iso-date="2011-11-30" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2012-06-07" currency="USD">1287047</value>
+<transaction-date iso-date="2012-06-07" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-10-31" currency="USD">1777851</value>
+<transaction-date iso-date="2008-10-31" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-05-31" currency="USD">1086529</value>
+<transaction-date iso-date="2011-05-31" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-03-28" currency="USD">744760</value>
+<transaction-date iso-date="2008-03-28" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2007-10-30" currency="USD">651600</value>
+<transaction-date iso-date="2007-10-30" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2007-03-13" currency="USD">1060000</value>
+<transaction-date iso-date="2007-03-13" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2005-05-31" currency="USD">748613</value>
+<transaction-date iso-date="2005-05-31" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2005-10-17" currency="USD">718123</value>
+<transaction-date iso-date="2005-10-17" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2005-12-09" currency="USD">708048</value>
+<transaction-date iso-date="2005-12-09" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2004-12-01" currency="USD">1761235</value>
+<transaction-date iso-date="2004-12-01" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-06-28" currency="USD">369558</value>
+<transaction-date iso-date="2006-06-28" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-08-31" currency="USD">724329</value>
+<transaction-date iso-date="2006-08-31" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-12-20" currency="USD">588005</value>
+<transaction-date iso-date="2006-12-20" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-04-13" currency="USD">914364</value>
+<transaction-date iso-date="2006-04-13" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2013-10-10" currency="USD">112794</value>
+<transaction-date iso-date="2013-10-10" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2013-09-13" currency="USD">645941</value>
+<transaction-date iso-date="2013-09-13" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2013-09-13" currency="USD">50000</value>
+<transaction-date iso-date="2013-09-13" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2013-10-22" currency="USD">70000</value>
+<transaction-date iso-date="2013-10-22" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GPR_0_en/" format="application/pdf">
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Grant Performance Report   (PDF 473 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GPR_0_en/" format="application/pdf">
+<category code="A04">Conditions</category>
+<title xml:lang="en">Grant Performance Report   (PDF 473 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GPR_0_en/" format="application/pdf">
+<category code="A05">Budget</category>
+<title xml:lang="en">Grant Performance Report   (PDF 473 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GPR_0_en/" format="application/pdf">
+<category code="A06">Summary information about contract</category>
+<title xml:lang="en">Grant Performance Report   (PDF 473 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GPR_0_en/" format="application/pdf">
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Performance Report   (PDF 473 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GPR_0_en/" format="application/pdf">
+<category code="A08">Results, outcomes and outputs</category>
+<title xml:lang="en">Grant Performance Report   (PDF 473 KB)</title>
+</document-link>
+
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GSC_0_en/" format="application/pdf">
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Grant Scorecard   (PDF 86 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GSC_0_en/" format="application/pdf">
+<category code="A04">Conditions</category>
+<title xml:lang="en">Grant Scorecard   (PDF 86 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GSC_0_en/" format="application/pdf">
+<category code="A05">Budget</category>
+<title xml:lang="en">Grant Scorecard   (PDF 86 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GSC_0_en/" format="application/pdf">
+<category code="A06">Summary information about contract</category>
+<title xml:lang="en">Grant Scorecard   (PDF 86 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GSC_0_en/" format="application/pdf">
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Scorecard   (PDF 86 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GSC_0_en/" format="application/pdf">
+<category code="A08">Results, outcomes and outputs</category>
+<title xml:lang="en">Grant Scorecard   (PDF 86 KB)</title>
+</document-link>
+
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_RCCGSC_0_en/" format="application/pdf">
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Grant Scorecard (RCC)   (PDF 819 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_RCCGSC_0_en/" format="application/pdf">
+<category code="A04">Conditions</category>
+<title xml:lang="en">Grant Scorecard (RCC)   (PDF 819 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_RCCGSC_0_en/" format="application/pdf">
+<category code="A05">Budget</category>
+<title xml:lang="en">Grant Scorecard (RCC)   (PDF 819 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_RCCGSC_0_en/" format="application/pdf">
+<category code="A06">Summary information about contract</category>
+<title xml:lang="en">Grant Scorecard (RCC)   (PDF 819 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_RCCGSC_0_en/" format="application/pdf">
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Scorecard (RCC)   (PDF 819 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_RCCGSC_0_en/" format="application/pdf">
+<category code="A08">Results, outcomes and outputs</category>
+<title xml:lang="en">Grant Scorecard (RCC)   (PDF 819 KB)</title>
+</document-link>
+
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GA_0_en/" format="application/pdf">
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 866 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GA_1_en/" format="application/pdf">
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Amended and Restated Program Grant Agreement   (PDF 2 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GA_0_en/" format="application/pdf">
+<category code="A04">Conditions</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 866 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GA_1_en/" format="application/pdf">
+<category code="A04">Conditions</category>
+<title xml:lang="en">Amended and Restated Program Grant Agreement   (PDF 2 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GA_0_en/" format="application/pdf">
+<category code="A05">Budget</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 866 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GA_1_en/" format="application/pdf">
+<category code="A05">Budget</category>
+<title xml:lang="en">Amended and Restated Program Grant Agreement   (PDF 2 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GA_0_en/" format="application/pdf">
+<category code="A06">Summary information about contract</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 866 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GA_1_en/" format="application/pdf">
+<category code="A06">Summary information about contract</category>
+<title xml:lang="en">Amended and Restated Program Grant Agreement   (PDF 2 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GA_0_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 866 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_GA_1_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Amended and Restated Program Grant Agreement   (PDF 2 MB)</title>
+</document-link>
+
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_IL_9_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Implementation Letter  9 (PDF 1 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-304-G02-T_IL_10_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Implementation Letter  10 (PDF 1 MB)</title>
+</document-link>
+
+
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number and percentage of MDR-TB and XDR-TB patients registered under DOTS Plus who are culture negative at six month of treatment in Tomsk oblast </title>
+<period>
+<period-start iso-date="2012-12-01" />
+<period-end iso-date="2012-12-01" />
+<target value="N: 72
+D: 93
+P: 77.4 %" />
+<actual value="N: 43
+D: 59
+P: 72.9 %" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number and percentage of MDR-TB and XDR-TB patients registered under DOTS Plus who are cured in Tomsk oblast</title>
+<period>
+<period-start iso-date="2012-12-01" />
+<period-end iso-date="2012-12-01" />
+<target value="N: 192
+D: 274
+P: 70.1 %" />
+<actual value="N: 133
+D: 220
+P: 60.5 %" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number and percentage of MDR-TB and XDR-TB patients registered under DOTS Plus who defaulted from treatment in Tomsk oblast</title>
+<period>
+<period-start iso-date="2012-12-01" />
+<period-end iso-date="2012-12-01" />
+<target value="N: 24
+D: 274
+P: 8.8 %" />
+<actual value="N: 18
+D: 220
+P: 8.2 %" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number and percentage of new TB cases under DOTS who defaulted from treatment in civilian sector</title>
+<period>
+<period-start iso-date="2012-12-01" />
+<period-end iso-date="2012-12-01" />
+<target value="N: 
+D: 
+P: 1.6 %" />
+<actual value="N: 
+D: 
+P: 2.3 %" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number and percentage of patients dually infected with TB and HIV offered and completed Isoniazid prophylaxis in civilian sector </title>
+<period>
+<period-start iso-date="2012-12-01" />
+<period-end iso-date="2012-12-01" />
+<target value="N: 49
+D: 55
+P: 89.1 %" />
+<actual value="N: 36
+D: 46
+P: 78.3 %" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number and percentage of patients dually infected with TB and HIV offered and completed Isoniazid prophylaxis in penitentiary sector</title>
+<period>
+<period-start iso-date="2012-12-01" />
+<period-end iso-date="2012-12-01" />
+<target value="N: 36
+D: 40
+P: 90 %" />
+<actual value="N: 37
+D: 40
+P: 92.5 %" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number and percentage of patients with TB, polyresistant TB, MDR-TB and XDR-TB receiving nutritional support in Tomsk oblast</title>
+<period>
+<period-start iso-date="2012-12-01" />
+<period-end iso-date="2012-12-01" />
+<target value="346" />
+<actual value="278" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of DST tests to 1st line drugs performed</title>
+<period>
+<period-start iso-date="2012-12-01" />
+<period-end iso-date="2012-12-01" />
+<target value="795" />
+<actual value="634" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of DST tests to 2nd line drugs performed</title>
+<period>
+<period-start iso-date="2012-12-01" />
+<period-end iso-date="2012-12-01" />
+<target value="435" />
+<actual value="339" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of HIV-positive patients screened for TB PPD test in civilian sector</title>
+<period>
+<period-start iso-date="2012-12-01" />
+<period-end iso-date="2012-12-01" />
+<target value="330" />
+<actual value="406" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of HIV-positive patients screened for TB PPD test in penitentiary sector</title>
+<period>
+<period-start iso-date="2012-12-01" />
+<period-end iso-date="2012-12-01" />
+<target value="60" />
+<actual value="121" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of MDR-TB and XDR-TB patients provided with DOTS Plus treatment in Tomsk oblast</title>
+<period>
+<period-start iso-date="2012-12-01" />
+<period-end iso-date="2012-12-01" />
+<target value="83" />
+<actual value="59" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of patients with polyresistant TB provided with treatment in Tomsk oblast</title>
+<period>
+<period-start iso-date="2012-12-01" />
+<period-end iso-date="2012-12-01" />
+<target value="35" />
+<actual value="17" />
+</period>
+</indicator>
+</result>
+<location>
+<location-type code="PCL" />
+<name xml:lang="en">Russian Federation</name>
+<description>Russian Federation</description>
+<administrative country="RUS">Russian Federation</administrative>
+</location>
+<activity-website>http://portfolio.theglobalfund.org/en/Grant/Index/RUS-304-G02-T</activity-website>
+</iati-activity>
+<iati-activity default-currency="USD" last-updated-datetime="2014-06-22T03:28:14" xml:lang="en" hierarchy="1">
+<reporting-org ref="47045" type="40">The Global Fund to Fight AIDS, Tuberculosis and Malaria</reporting-org>
+<iati-identifier>47045-RUS-405-G03-H</iati-identifier>
+<title xml:lang="en">Promoting a Strategic Response to HIV/AIDS Treatment an Care for Vulnerable Populations in the Russian Federation</title>
+<description type="1">Initially the Russian Federation’s HIV epidemic was almost exclusively spread through drug use and the sharing of contaminated needles, but heterosexual transmission is growing. The program supported by this grant aims to address the serious HIV and AIDS epidemic unfolding in the Russian Federation. The program supported by this grant aims to provide a comprehensive approach to identify people living with HIV in poor and vulnerable populations, refer them to treatment and care based on international standards, and provide them with counseling on adherence and HIV prevention, and with psychosocial  and palliative care. The program is primarily implemented in the country’s 24 regions most affected by HIV and AIDS to establish an integrated framework at the national level and in 59 regions of the Russian Federation that mobilizes the potential of the Russian health care system and nongovernmental organizations in the delivery of HIV and AIDS treatment, care and support. The program focuses on serving the needs of poor and marginalized populations in the Russian Federation, with special focus on injecting drug users, sex workers, men who have sex with men, prisoners and orphans.</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2005-09-01" />
+<activity-date type="start-planned" iso-date="2005-09-01" />
+<activity-date type="end-planned" iso-date="2011-08-31" />
+<activity-date type="end-actual" iso-date="2011-08-31" />
+<sector code="13040" />
+<sector code="2" />
+<sector code="2" />
+<sector code="2" />
+<sector code="2" />
+<sector code="2" />
+<contact-info>
+<organisation>The Global Fund to Fight AIDS, Tuberculosis and Malaria</organisation>
+<person-name>Valeria, Grishechkina</person-name>
+<email>Valeria.Grishechkina@theglobalfund.org</email>
+</contact-info>
+<participating-org role="Funding" ref="47045" xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</participating-org>
+<participating-org role="Implementing" type="Private Sector" xml:lang="en">Russian Health Care Foundation</participating-org>
+<recipient-country code="RU">Russian Federation</recipient-country>
+<activity-scope code="4" xml:lang="en">National</activity-scope>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-flow-type code="10">ODA</default-flow-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<conditions attached="0" />
+<collaboration-type code="4" />
+<budget type="1">
+<period-end iso-date="2011-08-31" />
+<value value-date="2011-08-31"  currency="USD">-364628</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2011-05-31" />
+<value value-date="2011-05-31"  currency="USD">245423</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2011-02-28" />
+<value value-date="2011-02-28"  currency="USD">9930617</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2010-11-30" />
+<value value-date="2010-11-30"  currency="USD">6527465</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2010-08-31" />
+<value value-date="2010-08-31"  currency="USD">395396</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2010-05-31" />
+<value value-date="2010-05-31"  currency="USD">970369</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2010-02-28" />
+<value value-date="2010-02-28"  currency="USD">3045340</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2009-11-30" />
+<value value-date="2009-11-30"  currency="USD">30198772</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2009-08-31" />
+<value value-date="2009-08-31"  currency="USD">955859</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2009-05-31" />
+<value value-date="2009-05-31"  currency="USD">11712644</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2009-02-28" />
+<value value-date="2009-02-28"  currency="USD">12089887</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2008-11-30" />
+<value value-date="2008-11-30"  currency="USD">2909237</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2008-08-31" />
+<value value-date="2008-08-31"  currency="USD">1080634</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2008-05-31" />
+<value value-date="2008-05-31"  currency="USD">9711717</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2008-02-29" />
+<value value-date="2008-02-29"  currency="USD">9908651</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2007-11-30" />
+<value value-date="2007-11-30"  currency="USD">2835289</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2007-08-31" />
+<value value-date="2007-08-31"  currency="USD">932562</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2007-05-31" />
+<value value-date="2007-05-31"  currency="USD">1562051</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2007-02-28" />
+<value value-date="2007-02-28"  currency="USD">17128991</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2006-11-30" />
+<value value-date="2006-11-30"  currency="USD">1587049</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2006-08-31" />
+<value value-date="2006-08-31"  currency="USD">908229</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2006-05-31" />
+<value value-date="2006-05-31"  currency="USD">7822347</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2006-02-28" />
+<value value-date="2006-02-28"  currency="USD">2656991</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2005-11-30" />
+<value value-date="2005-11-30"  currency="USD">1461900</value>
+</budget>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="0001-01-01" currency="USD">136482419</value>
+<transaction-date iso-date="0001-01-01" />
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2013-02-08" currency="USD">-15390</value>
+<transaction-date iso-date="2013-02-08" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-12-02" currency="USD">23802531</value>
+<transaction-date iso-date="2008-12-02" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-11-25" currency="USD">4015409</value>
+<transaction-date iso-date="2009-11-25" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-07-15" currency="USD">656659</value>
+<transaction-date iso-date="2011-07-15" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-06-05" currency="USD">4049054</value>
+<transaction-date iso-date="2008-06-05" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-09-02" currency="USD">16362931</value>
+<transaction-date iso-date="2010-09-02" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-06-23" currency="USD">31707425</value>
+<transaction-date iso-date="2009-06-23" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2007-05-29" currency="USD">3827632</value>
+<transaction-date iso-date="2007-05-29" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2007-02-23" currency="USD">2042847</value>
+<transaction-date iso-date="2007-02-23" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-12-15" currency="USD">13216876</value>
+<transaction-date iso-date="2006-12-15" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-09-06" currency="USD">1570506</value>
+<transaction-date iso-date="2006-09-06" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-07-13" currency="USD">924772</value>
+<transaction-date iso-date="2006-07-13" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-03-13" currency="USD">7805804</value>
+<transaction-date iso-date="2006-03-13" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2005-09-09" currency="USD">4118891</value>
+<transaction-date iso-date="2005-09-09" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2007-08-31" currency="USD">22396473</value>
+<transaction-date iso-date="2007-08-31" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G03-H_GPR_0_en/" format="application/pdf">
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Grant Performance Report   (PDF 424 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G03-H_GPR_0_en/" format="application/pdf">
+<category code="A04">Conditions</category>
+<title xml:lang="en">Grant Performance Report   (PDF 424 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G03-H_GPR_0_en/" format="application/pdf">
+<category code="A05">Budget</category>
+<title xml:lang="en">Grant Performance Report   (PDF 424 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G03-H_GPR_0_en/" format="application/pdf">
+<category code="A06">Summary information about contract</category>
+<title xml:lang="en">Grant Performance Report   (PDF 424 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G03-H_GPR_0_en/" format="application/pdf">
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Performance Report   (PDF 424 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G03-H_GPR_0_en/" format="application/pdf">
+<category code="A08">Results, outcomes and outputs</category>
+<title xml:lang="en">Grant Performance Report   (PDF 424 KB)</title>
+</document-link>
+
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G03-H_GSC_0_en/" format="application/pdf">
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Grant Scorecard   (PDF 146 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G03-H_GSC_0_en/" format="application/pdf">
+<category code="A04">Conditions</category>
+<title xml:lang="en">Grant Scorecard   (PDF 146 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G03-H_GSC_0_en/" format="application/pdf">
+<category code="A05">Budget</category>
+<title xml:lang="en">Grant Scorecard   (PDF 146 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G03-H_GSC_0_en/" format="application/pdf">
+<category code="A06">Summary information about contract</category>
+<title xml:lang="en">Grant Scorecard   (PDF 146 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G03-H_GSC_0_en/" format="application/pdf">
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Scorecard   (PDF 146 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G03-H_GSC_0_en/" format="application/pdf">
+<category code="A08">Results, outcomes and outputs</category>
+<title xml:lang="en">Grant Scorecard   (PDF 146 KB)</title>
+</document-link>
+
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G03-H_GA_0_en/" format="application/pdf">
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 9 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G03-H_GA_0_en/" format="application/pdf">
+<category code="A04">Conditions</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 9 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G03-H_GA_0_en/" format="application/pdf">
+<category code="A05">Budget</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 9 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G03-H_GA_0_en/" format="application/pdf">
+<category code="A06">Summary information about contract</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 9 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G03-H_GA_0_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 9 MB)</title>
+</document-link>
+
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G03-H_IL_6_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Implementation Letter  6 (PDF 1 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G03-H_IL_8_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Implementation Letter  8 (PDF 2 MB)</title>
+</document-link>
+
+
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of migrants receiving ARV treatment</title>
+<period>
+<period-start iso-date="2012-09-01" />
+<period-end iso-date="2013-02-28" />
+<target value="936" />
+<actual value="828" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of people receiving ARV treatment adherence and socia.l support services</title>
+<period>
+<period-start iso-date="2012-09-01" />
+<period-end iso-date="2013-02-28" />
+<target value="4,669" />
+<actual value="5,673" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of people receiving ARV treatment through emergency supply of drugs</title>
+<period>
+<period-start iso-date="2012-09-01" />
+<period-end iso-date="2013-02-28" />
+<target value="12,258" />
+<actual value="26,061" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of prisoners receiving ARV treatment</title>
+<period>
+<period-start iso-date="2012-09-01" />
+<period-end iso-date="2013-02-28" />
+<target value="3,733" />
+<actual value="3,459" />
+</period>
+</indicator>
+</result>
+<location>
+<location-type code="PCL" />
+<name xml:lang="en">Russian Federation</name>
+<description>Russian Federation</description>
+<administrative country="RUS">Russian Federation</administrative>
+</location>
+<activity-website>http://portfolio.theglobalfund.org/en/Grant/Index/RUS-405-G03-H</activity-website>
+</iati-activity>
+<iati-activity default-currency="USD" last-updated-datetime="2014-06-22T03:28:14" xml:lang="en" hierarchy="1">
+<reporting-org ref="47045" type="40">The Global Fund to Fight AIDS, Tuberculosis and Malaria</reporting-org>
+<iati-identifier>47045-RUS-405-G04-T</iati-identifier>
+<title xml:lang="en">Promoting a Strategic Response to TB Treatment and Care for Vulnerable Populations in the Russian Federation</title>
+<description type="1">The Russian Federation experienced a dramatic increase in TB towards the end of the last century and although incidence rates have begun to level off, they remain high. The program supported by this grant is scaling up TB services in line with the Russian National TB Control Program’s strategic plans. Grant funds are being used for laboratory renovations, supplies and scaling up the smear microscopy laboratory network. The program expands DOTS-Plus for the treatment of multidrug-resistant TB and also supports the establishment of a solid basis for TB/HIV control in the country.</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2005-12-01" />
+<activity-date type="start-planned" iso-date="2005-12-01" />
+<activity-date type="end-planned" iso-date="2010-11-30" />
+<activity-date type="end-actual" iso-date="2010-11-30" />
+<sector code="12263" />
+<contact-info>
+<organisation>The Global Fund to Fight AIDS, Tuberculosis and Malaria</organisation>
+<person-name>Valeria, Grishechkina</person-name>
+<email>Valeria.Grishechkina@theglobalfund.org</email>
+</contact-info>
+<participating-org role="Funding" ref="47045" xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</participating-org>
+<participating-org role="Implementing" type="Private Sector" xml:lang="en">Russian Health Care Foundation</participating-org>
+<recipient-country code="RU">Russian Federation</recipient-country>
+<activity-scope code="4" xml:lang="en">National</activity-scope>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-flow-type code="10">ODA</default-flow-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<conditions attached="1">
+<condition type="1">PHASE2: 
+1. the delivery by the Principal Recipient to the Global Fund of documentation demonstrating, in form and substance satisfactory to the Global Fund, that individuals with the appropriate qualification and experience have  been appointed for the following positions:
+a. Program Manager.
+</condition>
+<condition type="2">PHASE 2 CP to second disbursement:
+1.the delivery by the Principal Recipient to the Global Fund, of documentation demonstrating, in form and substance satisfactory to the Global Fund, that the use of the existing monitoring and evaluation databases for HIV/AIDS-related data at the PNLS level has resumed and that accurate data collection and monitoring by the Principal Recipient is taking place.</condition>
+<condition type="2">2.the delivery by the Principal Recipient to the Global Fund of a revised plan for the monitoring and evaluation of Program activities (the &quot;Revised M&amp;E Plan&quot;);
+
+3.	the written approval by the Global Fund of the Revised M&amp;E Plan; and
+
+4.	the delivery by the Principal Recipient to the Global Fund of a revised budget for the Program Term (the &quot;Revised M&amp;E Budget&quot;) if the amendments incorporated into the Revised M&amp;E Plan necessitate amendments to the budget for the Program Term that was approved by the Global Fund as of the effective date of this Agreement. 
+</condition>
+<condition type="2">Condition Precedent to Second Disbursement:
+
+a. The Principal Recipient shall provide to the Global Fund, in form and substance satisfactory to the Global Fund, a revised National M&amp;E 
+plan, including a clear M&amp;E framework with indicators, targets, data sources and frequency of data collection. The revised National M&amp;E plan shall also include an overall M&amp;E budget, which identifies funding sources and resources gaps
+b. The Principal Recipient shall provide to the Global Fund, in form and substance satisfactory to the Global Fund, an M&amp;E action plan, detailing M&amp;E activities and M&amp;E system strengthening measures, as identified during M&amp;E Systems Assessment (June 2008). This action plan shall include, among other things, clear timelines, lists of funding sources and responsible agencies.</condition>
+</conditions>
+<collaboration-type code="4" />
+<budget type="1">
+<period-end iso-date="2010-11-30" />
+<value value-date="2010-11-30"  currency="USD">215032</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2010-09-30" />
+<value value-date="2010-09-30"  currency="USD">301482</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2010-06-30" />
+<value value-date="2010-06-30"  currency="USD">1376037</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2010-03-31" />
+<value value-date="2010-03-31"  currency="USD">3551058</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2009-12-31" />
+<value value-date="2009-12-31"  currency="USD">1352842</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2009-09-30" />
+<value value-date="2009-09-30"  currency="USD">2946520</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2009-06-30" />
+<value value-date="2009-06-30"  currency="USD">952202</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2009-03-31" />
+<value value-date="2009-03-31"  currency="USD">1650272</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2008-12-31" />
+<value value-date="2008-12-31"  currency="USD">5885289</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2008-08-31" />
+<value value-date="2008-08-31"  currency="USD">7045066</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2008-05-31" />
+<value value-date="2008-05-31"  currency="USD">7414829</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2008-02-29" />
+<value value-date="2008-02-29"  currency="USD">7449457</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2007-11-30" />
+<value value-date="2007-11-30"  currency="USD">739889</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2007-09-30" />
+<value value-date="2007-09-30"  currency="USD">9759447</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2007-06-30" />
+<value value-date="2007-06-30"  currency="USD">10529670</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2007-03-31" />
+<value value-date="2007-03-31"  currency="USD">2804727</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2006-12-31" />
+<value value-date="2006-12-31"  currency="USD">4653896</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2006-09-30" />
+<value value-date="2006-09-30"  currency="USD">14105216</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2006-06-30" />
+<value value-date="2006-06-30"  currency="USD">4148728</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2006-03-31" />
+<value value-date="2006-03-31"  currency="USD">1283789</value>
+</budget>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="0001-01-01" currency="USD">87857151</value>
+<transaction-date iso-date="0001-01-01" />
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-10-01" currency="USD">2973516</value>
+<transaction-date iso-date="2008-10-01" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-07-10" currency="USD">7714149</value>
+<transaction-date iso-date="2009-07-10" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-05-30" currency="USD">36607</value>
+<transaction-date iso-date="2011-05-30" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-11-18" currency="USD">-246555</value>
+<transaction-date iso-date="2011-11-18" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-03-31" currency="USD">74132</value>
+<transaction-date iso-date="2010-03-31" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-03-31" currency="USD">1517260</value>
+<transaction-date iso-date="2010-03-31" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-03-27" currency="USD">7954652</value>
+<transaction-date iso-date="2008-03-27" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-03-27" currency="USD">6867672</value>
+<transaction-date iso-date="2008-03-27" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-03-27" currency="USD">50000</value>
+<transaction-date iso-date="2008-03-27" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-03-27" currency="USD">94910</value>
+<transaction-date iso-date="2008-03-27" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-10-14" currency="USD">46835</value>
+<transaction-date iso-date="2009-10-14" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-10-14" currency="USD">12544471</value>
+<transaction-date iso-date="2009-10-14" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-12-22" currency="USD">39108</value>
+<transaction-date iso-date="2010-12-22" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-12-22" currency="USD">115031</value>
+<transaction-date iso-date="2010-12-22" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-12-22" currency="USD">50000</value>
+<transaction-date iso-date="2010-12-22" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2007-06-06" currency="USD">12729814</value>
+<transaction-date iso-date="2007-06-06" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2007-04-16" currency="USD">6393736</value>
+<transaction-date iso-date="2007-04-16" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-08-07" currency="USD">12836535</value>
+<transaction-date iso-date="2006-08-07" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2005-12-19" currency="USD">4903992</value>
+<transaction-date iso-date="2005-12-19" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2007-09-13" currency="USD">11161286</value>
+<transaction-date iso-date="2007-09-13" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_GPR_0_en/" format="application/pdf">
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Grant Performance Report   (PDF 363 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_GPR_0_en/" format="application/pdf">
+<category code="A04">Conditions</category>
+<title xml:lang="en">Grant Performance Report   (PDF 363 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_GPR_0_en/" format="application/pdf">
+<category code="A05">Budget</category>
+<title xml:lang="en">Grant Performance Report   (PDF 363 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_GPR_0_en/" format="application/pdf">
+<category code="A06">Summary information about contract</category>
+<title xml:lang="en">Grant Performance Report   (PDF 363 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_GPR_0_en/" format="application/pdf">
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Performance Report   (PDF 363 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_GPR_0_en/" format="application/pdf">
+<category code="A08">Results, outcomes and outputs</category>
+<title xml:lang="en">Grant Performance Report   (PDF 363 KB)</title>
+</document-link>
+
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_GA_1_en/" format="application/pdf">
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Amended and Restated Program Grant Agreement   (PDF 4 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_GA_0_en/" format="application/pdf">
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 1 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_GA_1_en/" format="application/pdf">
+<category code="A04">Conditions</category>
+<title xml:lang="en">Amended and Restated Program Grant Agreement   (PDF 4 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_GA_0_en/" format="application/pdf">
+<category code="A04">Conditions</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 1 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_GA_1_en/" format="application/pdf">
+<category code="A05">Budget</category>
+<title xml:lang="en">Amended and Restated Program Grant Agreement   (PDF 4 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_GA_0_en/" format="application/pdf">
+<category code="A05">Budget</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 1 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_GA_1_en/" format="application/pdf">
+<category code="A06">Summary information about contract</category>
+<title xml:lang="en">Amended and Restated Program Grant Agreement   (PDF 4 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_GA_0_en/" format="application/pdf">
+<category code="A06">Summary information about contract</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 1 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_GA_1_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Amended and Restated Program Grant Agreement   (PDF 4 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_GA_0_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 1 MB)</title>
+</document-link>
+
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_IL_5_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Implementation Letter  5 (PDF 1 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_IL_6_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Implementation Letter  6 (PDF 1 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_IL_8_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Implementation Letter  8 (PDF 1 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_IL_9_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Implementation Letter  9 (PDF 6 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-405-G04-T_IL_10_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Implementation Letter  10 (PDF 786 KB)</title>
+</document-link>
+
+
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number and percentage of smear positive cases registered under cohort analysis who are successfully treated</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-12-31" />
+<target value="N: 
+D: 
+P: 62 %" />
+<actual value="N: 
+D: 
+P: 55.8 %" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number and percentage of treatment facilities submitting accurate, timely and complete reports</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-12-31" />
+<target value="N: 342
+D: 342
+P: 100 %" />
+<actual value="N: 342
+D: 342
+P: 100 %" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of established &quot;centers of excellence&quot; providing technical assistance in complicated treatment settings, including MDR-TB</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-12-31" />
+<target value="9" />
+<actual value="9" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of HIV positive TB patients receiving ARV treatment after detecting their HIV status</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-12-31" />
+<target value="5,500" />
+<actual value="5,012" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of mycobacteriology laboratories performing drug susceptibility testing (in project regions)</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-12-31" />
+<target value="92" />
+<actual value="92" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of new MDR-TB patients enrolled in DOTS-Plus treatment regimes including in prisons and civilian sectors</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-12-31" />
+<target value="7,500" />
+<actual value="6,549" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of new sputum smear positive TB cases detected</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-12-31" />
+<target value="36,700" />
+<actual value="26,889" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of phthisiologists trained in treatment and monitoring</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-12-31" />
+<target value="1,120" />
+<actual value="1,163" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of project regions of the Russian Federation providing DOTS-Plus coverage</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-12-31" />
+<target value="30" />
+<actual value="30" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of regional institutions supported to perform supervisory visits to districts</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-12-31" />
+<target value="88" />
+<actual value="88" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of TB patients cared for with social support during DOT treatment</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-12-31" />
+<target value="217,033" />
+<actual value="208,334" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Percentage of new TB cases detected with positive sputum smear microscopy</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-12-31" />
+<target value="N: 
+D: 
+P: 43 %" />
+<actual value="N: 
+D: 
+P: 31.9 %" />
+</period>
+</indicator>
+</result>
+<location>
+<location-type code="PCL" />
+<name xml:lang="en">Russian Federation</name>
+<description>Russian Federation</description>
+<administrative country="RUS">Russian Federation</administrative>
+</location>
+<activity-website>http://portfolio.theglobalfund.org/en/Grant/Index/RUS-405-G04-T</activity-website>
+</iati-activity>
+<iati-activity default-currency="USD" last-updated-datetime="2014-06-22T03:28:19" xml:lang="en" hierarchy="1">
+<reporting-org ref="47045" type="40">The Global Fund to Fight AIDS, Tuberculosis and Malaria</reporting-org>
+<iati-identifier>47045-RUS-506-G05-H</iati-identifier>
+<title xml:lang="en">Scaling up access to HIV prevention and treatment by strengthening HIV services for injecting drug users in the Russian Federation</title>
+<description type="1">Initially the Russian Federation’s HIV epidemic was almost exclusively spread through drug use and the sharing of contaminated needles, but heterosexual transmission is growing. The program supported by this grant aims to address the serious HIV epidemic unfolding in the Russian Federation. The program supported by this grant aims to significantly increase both the availability and the coverage of HIV prevention services for injecting drug users in 33 Russian cities. In addition to the promotion of voluntary counseling and testing, the appropriate referral of HIV-infected injecting drug users to TB treatment, training for health professionals and community members, the program is focusing strongly on the development of essential harm reduction services for injecting drug users. </description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2006-09-01" />
+<activity-date type="start-planned" iso-date="2006-09-01" />
+<activity-date type="end-planned" iso-date="2014-12-31" />
+<activity-date type="end-actual" iso-date="2014-12-31" />
+<sector code="13040" />
+<sector code="2" />
+<sector code="2" />
+<sector code="2" />
+<sector code="2" />
+<sector code="2" />
+<contact-info>
+<organisation>The Global Fund to Fight AIDS, Tuberculosis and Malaria</organisation>
+</contact-info>
+<participating-org role="Funding" ref="47045" xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</participating-org>
+<participating-org role="Implementing" type="Private Sector" xml:lang="en">Russian Harm Reduction Network</participating-org>
+<recipient-country code="RU">Russian Federation</recipient-country>
+<activity-scope code="4" xml:lang="en">National</activity-scope>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-flow-type code="10">ODA</default-flow-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<conditions attached="1">
+<condition type="1">&lt;p&gt;
+	1) PR to maintain the CCM and LFA informed about the programmatic progress made in the intervals.&lt;br /&gt;
+	2) In phase 2, all indicators should be reported on a semester basis (rehabilitations and blood bags)&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) The Top management of the DLSI should make sure that the Fiduciary Agent is fully playing its role and is taking part in coordination mechanisms of the GF program&lt;br /&gt;
+	2)&amp;nbsp;Prepare a transition plan after the end of the contract with the Fiduciary Agency at the end of 2012.&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) Strict implementation of the written procedures regarding asset management and tracking mechanism&lt;br /&gt;
+	2) Submission of a comprehensive inventory after one year of programme execution&lt;br /&gt;
+	3) Subscription to insurance contracts for offices and equipment&lt;br /&gt;
+	4) Fire protection measures&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) Review the coordination mechanism between DEM and DLSI for the follow-up of rehabilitations&lt;br /&gt;
+	2) PR should share proposal and ToR for contracting an external architect to monitor the works and ensure the cost is covered in the budget&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) The PR should be careful when defining the terms of the contract with private firms for equipment maintenance&lt;br /&gt;
+	2) The PR should clearly define the role of the DEM in the maintenance scheme&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) The PR should elaborate the contract for procurement with the PNA in full respect of the written procedures (national regulations &amp;amp; manual of procedures).&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) The PR should provide the list of equipment procured and destination&lt;br /&gt;
+	2) Regional planners should follow-up on the installation of equipment&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) The PR should request a written monthly update to the architect contracted for the monitoring of the rehabilitation works.&lt;br /&gt;
+	2) On a monthly basis, the PR should launch inspection missions on the rehabilitation sites with the technical expert from the MoH (DEM)&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</condition>
+<condition type="1">&lt;p&gt;
+	1) The PR should request external technical assistance when necessary&lt;br /&gt;
+	2) Technical and Financial Partners should extend their support if necessary (ESTHER, FHI, WHO &amp;hellip;)&lt;br /&gt;
+	3) The top management in the line ministry should empower DLSI by reaffirming to other divisions and departments the pivotal role of the DLSI for HSS activities&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+</condition>
+</conditions>
+<collaboration-type code="4" />
+<budget type="1">
+<period-end iso-date="2014-12-31" />
+<value value-date="2014-12-31"  currency="USD">433832</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2014-09-30" />
+<value value-date="2014-09-30"  currency="USD">874489</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2014-06-30" />
+<value value-date="2014-06-30"  currency="USD">690036</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2014-03-31" />
+<value value-date="2014-03-31"  currency="USD">566060</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2013-12-31" />
+<value value-date="2013-12-31"  currency="USD">1424717</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2013-08-31" />
+<value value-date="2013-08-31"  currency="USD">171302</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2013-06-30" />
+<value value-date="2013-06-30"  currency="USD">526724</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2013-03-31" />
+<value value-date="2013-03-31"  currency="USD">1054027</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2012-12-31" />
+<value value-date="2012-12-31"  currency="USD">588670</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2012-09-30" />
+<value value-date="2012-09-30"  currency="USD">603810</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2012-06-30" />
+<value value-date="2012-06-30"  currency="USD">62048</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2012-04-30" />
+<value value-date="2012-04-30"  currency="USD">-773475</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2012-02-29" />
+<value value-date="2012-02-29"  currency="USD">125093</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2011-11-30" />
+<value value-date="2011-11-30"  currency="USD">336828</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2011-08-31" />
+<value value-date="2011-08-31"  currency="USD">225452</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2011-06-30" />
+<value value-date="2011-06-30"  currency="USD">623647</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2011-03-31" />
+<value value-date="2011-03-31"  currency="USD">1117208</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2010-12-31" />
+<value value-date="2010-12-31"  currency="USD">1255228</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2010-09-30" />
+<value value-date="2010-09-30"  currency="USD">469070</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2010-06-30" />
+<value value-date="2010-06-30"  currency="USD">672272</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2010-03-31" />
+<value value-date="2010-03-31"  currency="USD">843764</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2009-12-31" />
+<value value-date="2009-12-31"  currency="USD">1215372</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2009-09-30" />
+<value value-date="2009-09-30"  currency="USD">446454</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2009-06-30" />
+<value value-date="2009-06-30"  currency="USD">534981</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2009-03-31" />
+<value value-date="2009-03-31"  currency="USD">890308</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2008-12-31" />
+<value value-date="2008-12-31"  currency="USD">1354898</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2008-08-31" />
+<value value-date="2008-08-31"  currency="USD">432594</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2008-06-30" />
+<value value-date="2008-06-30"  currency="USD">723217</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2008-03-31" />
+<value value-date="2008-03-31"  currency="USD">770142</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2007-12-31" />
+<value value-date="2007-12-31"  currency="USD">893473</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2007-09-30" />
+<value value-date="2007-09-30"  currency="USD">146924</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2007-06-30" />
+<value value-date="2007-06-30"  currency="USD">453350</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2007-03-31" />
+<value value-date="2007-03-31"  currency="USD">615718</value>
+</budget>
+<budget type="1">
+<period-end iso-date="2006-12-31" />
+<value value-date="2006-12-31"  currency="USD">470625</value>
+</budget>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="0001-01-01" currency="USD">20798259</value>
+<transaction-date iso-date="0001-01-01" />
+</transaction>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="0001-01-01" currency="USD">20798259</value>
+<transaction-date iso-date="0001-01-01" />
+</transaction>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="0001-01-01" currency="USD">20798259</value>
+<transaction-date iso-date="0001-01-01" />
+</transaction>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="0001-01-01" currency="USD">20798259</value>
+<transaction-date iso-date="0001-01-01" />
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-12-15" currency="USD">1480275</value>
+<transaction-date iso-date="2009-12-15" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-08-12" currency="USD">1490706</value>
+<transaction-date iso-date="2010-08-12" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-03-03" currency="USD">26831</value>
+<transaction-date iso-date="2011-03-03" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-03-03" currency="USD">1694609</value>
+<transaction-date iso-date="2011-03-03" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2013-02-15" currency="USD">1281556</value>
+<transaction-date iso-date="2013-02-15" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2012-09-05" currency="USD">1071177</value>
+<transaction-date iso-date="2012-09-05" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2013-09-27" currency="USD">1798310</value>
+<transaction-date iso-date="2013-09-27" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2013-08-30" currency="USD">134887</value>
+<transaction-date iso-date="2013-08-30" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2013-05-15" currency="USD">203822</value>
+<transaction-date iso-date="2013-05-15" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2013-08-13" currency="USD">365197</value>
+<transaction-date iso-date="2013-08-13" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-09-22" currency="USD">650470</value>
+<transaction-date iso-date="2011-09-22" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-10-22" currency="USD">43204</value>
+<transaction-date iso-date="2011-10-22" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-07-13" currency="USD">1431217</value>
+<transaction-date iso-date="2009-07-13" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-07-03" currency="USD">954806</value>
+<transaction-date iso-date="2008-07-03" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-11-18" currency="USD">2686052</value>
+<transaction-date iso-date="2008-11-18" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-05-26" currency="USD">24887</value>
+<transaction-date iso-date="2009-05-26" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-04-21" currency="USD">28990</value>
+<transaction-date iso-date="2010-04-21" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-06-25" currency="USD">103786</value>
+<transaction-date iso-date="2008-06-25" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-08-06" currency="USD">41304</value>
+<transaction-date iso-date="2008-08-06" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-03-10" currency="USD">572100</value>
+<transaction-date iso-date="2008-03-10" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-03-20" currency="USD">51079</value>
+<transaction-date iso-date="2008-03-20" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2007-11-06" currency="USD">586928</value>
+<transaction-date iso-date="2007-11-06" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2007-08-16" currency="USD">483612</value>
+<transaction-date iso-date="2007-08-16" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2007-03-30" currency="USD">368120</value>
+<transaction-date iso-date="2007-03-30" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-09-12" currency="USD">1001363</value>
+<transaction-date iso-date="2006-09-12" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-09-12" currency="USD">144564</value>
+<transaction-date iso-date="2006-09-12" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2014-06-12" currency="USD">1709115</value>
+<transaction-date iso-date="2014-06-12" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GPR_0_en/" format="application/pdf">
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Grant Performance Report   (PDF 352 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GPR_0_en/" format="application/pdf">
+<category code="A04">Conditions</category>
+<title xml:lang="en">Grant Performance Report   (PDF 352 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GPR_0_en/" format="application/pdf">
+<category code="A05">Budget</category>
+<title xml:lang="en">Grant Performance Report   (PDF 352 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GPR_0_en/" format="application/pdf">
+<category code="A06">Summary information about contract</category>
+<title xml:lang="en">Grant Performance Report   (PDF 352 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GPR_0_en/" format="application/pdf">
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Performance Report   (PDF 352 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GPR_0_en/" format="application/pdf">
+<category code="A08">Results, outcomes and outputs</category>
+<title xml:lang="en">Grant Performance Report   (PDF 352 KB)</title>
+</document-link>
+
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GSC_0_en/" format="application/pdf">
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Grant Scorecard   (PDF 126 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GSC_0_en/" format="application/pdf">
+<category code="A04">Conditions</category>
+<title xml:lang="en">Grant Scorecard   (PDF 126 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GSC_0_en/" format="application/pdf">
+<category code="A05">Budget</category>
+<title xml:lang="en">Grant Scorecard   (PDF 126 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GSC_0_en/" format="application/pdf">
+<category code="A06">Summary information about contract</category>
+<title xml:lang="en">Grant Scorecard   (PDF 126 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GSC_0_en/" format="application/pdf">
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Scorecard   (PDF 126 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GSC_0_en/" format="application/pdf">
+<category code="A08">Results, outcomes and outputs</category>
+<title xml:lang="en">Grant Scorecard   (PDF 126 KB)</title>
+</document-link>
+
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GA_0_en/" format="application/pdf">
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 4 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GA_1_en/" format="application/pdf">
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Amended and Restated Program Grant Agreement   (PDF 3 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GA_0_en/" format="application/pdf">
+<category code="A04">Conditions</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 4 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GA_1_en/" format="application/pdf">
+<category code="A04">Conditions</category>
+<title xml:lang="en">Amended and Restated Program Grant Agreement   (PDF 3 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GA_0_en/" format="application/pdf">
+<category code="A05">Budget</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 4 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GA_1_en/" format="application/pdf">
+<category code="A05">Budget</category>
+<title xml:lang="en">Amended and Restated Program Grant Agreement   (PDF 3 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GA_0_en/" format="application/pdf">
+<category code="A06">Summary information about contract</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 4 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GA_1_en/" format="application/pdf">
+<category code="A06">Summary information about contract</category>
+<title xml:lang="en">Amended and Restated Program Grant Agreement   (PDF 3 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GA_0_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Program Grant Agreement   (PDF 4 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_GA_1_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Amended and Restated Program Grant Agreement   (PDF 3 MB)</title>
+</document-link>
+
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_IL_6_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Implementation Letter  6 (PDF 1 MB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_IL_7_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Implementation Letter  7 (PDF 463 KB)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/GrantDocuments/RUS-506-G05-H_IL_8_en/" format="application/pdf">
+<category code="A09">Memorandum of understanding (If agreed by all parties)</category>
+<title xml:lang="en">Implementation Letter  8 (PDF 1 MB)</title>
+</document-link>
+
+
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number and percentage of IDUs ever reached by local prevention projects</title>
+<period>
+<period-start iso-date="2013-09-01" />
+<period-end iso-date="2013-09-01" />
+<target value="N: 45,761
+D: 309,127
+P: 14.8 %" />
+<actual value="N: 50,769
+D: 309,127
+P: 16.4 %" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of community representatives trained in self-organising and treatment preparedness (Tied to Objectives 3&amp;4)</title>
+<period>
+<period-start iso-date="2013-09-01" />
+<period-end iso-date="2013-09-01" />
+<target value="714" />
+<actual value="825" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of health staff trained in effective response to HIV prevention among IDUs &amp; treatment preparedness, including Gender specification</title>
+<period>
+<period-start iso-date="2013-09-01" />
+<period-end iso-date="2013-09-01" />
+<target value="192" />
+<actual value="263" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of health staff trained in effective response to HIV/TB/Hepatitis among IDUs (Tied to Objectives 2&amp;3)</title>
+<period>
+<period-start iso-date="2013-09-01" />
+<period-end iso-date="2013-09-01" />
+<target value="70" />
+<actual value="74" />
+</period>
+</indicator>
+</result>
+<result type="1" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of IDU clients provided with VCT</title>
+<period>
+<period-start iso-date="2013-09-01" />
+<period-end iso-date="2013-09-01" />
+<target value="1,500" />
+<actual value="2,315" />
+</period>
+</indicator>
+</result>
+<location>
+<location-type code="PCL" />
+<name xml:lang="en">Russian Federation</name>
+<description>Russian Federation</description>
+<administrative country="RUS">Russian Federation</administrative>
+</location>
+<activity-website>http://portfolio.theglobalfund.org/en/Grant/Index/RUS-506-G05-H</activity-website>
+</iati-activity>
+</iati-activities>

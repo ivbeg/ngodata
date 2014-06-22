@@ -1,0 +1,2533 @@
+<?xml version="1.0" encoding="UTF-8"?><iati-activities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" generated-datetime="2014-06-18T13:55:02" version="1.03">
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="1">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<iati-identifier>41114-PROJECT-00060850</iati-identifier>
+					<activity-status code="2">Implementation</activity-status>
+					<related-activity type="2" ref="41114-OUTPUT-00076781"></related-activity>
+					<title xml:lang="en">Baikal Basin INRM</title>
+					<description xml:lang="en" type="1">Integrated Natural Resource Management in the Baikal Basin Transboundary Ecosystem</description>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<participating-org role="Implementing" type="40" ref="02669">OPS</participating-org>
+					<participating-org role="Accountable" type="40" ref="02669">OPS</participating-org>
+					
+					<activity-date type="start-planned" iso-date="2011-03-01">2011-03-01</activity-date>
+					<activity-date type="start-actual" iso-date="2011-03-01">2011-03-01</activity-date>					
+					<activity-date type="end-planned" iso-date="2015-12-31">2015-12-31</activity-date>
+					
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					
+					<contact-info><email>registry.ru@undp.org</email></contact-info>
+					<activity-website>http://www.undp.ru/</activity-website>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/projects/RUS/00060850%5F4347%2DBaikalProDoc%2029%20Dec%202010%20final%20for%20submission1%2Edocx" format="application/msword" xml:lang="en"> 
+						<title>FINANCING PLAN (IN US$):</title>
+						<category code="A01">Pre- and post-project impact appraisal </category>
+						<category code="A02">Objectives / Purpose of activity </category>
+						<category code="A03">Intended ultimate beneficiaries </category>
+						<category code="A04">Condition</category>
+						<category code="A05">Budget</category>
+						<category code="A08">Results, outcomes and outputs</category>
+					</document-link>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Budget/RUS.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>RUS</title>
+						<category code="A05" xml:lang="en">Budget</category>
+					</document-link>
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+					<conditions attached="0"></conditions>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="2">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					<iati-identifier>41114-OUTPUT-00076781</iati-identifier>
+					<related-activity type="1" ref="41114-PROJECT-00060850"></related-activity>
+					<title xml:lang="en">PIMS 4347 MFA FSP: BAIKAL</title>
+					<description xml:lang="en" type="1">Integrated Natural Resource Management in the Baikal Basin Transboundary Ecosystem</description>
+					<sector vocabulary="DAC" code="41010">Environmental policy and administrative management</sector>
+					<sector vocabulary="RO" code="4">Environment &amp; sustainable development</sector>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<budget type="2">
+						<period-start iso-date="2014-01-01"/>
+						<period-end iso-date="2014-12-31"/>
+						<value currency="USD" value-date="2014-05-31">1009215</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2013-01-01"/>
+						<period-end iso-date="2013-12-31"/>
+						<value currency="USD" value-date="2013-12-31">1143691</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2012-01-01"/>
+						<period-end iso-date="2012-12-31"/>
+						<value currency="USD" value-date="2012-12-31">1010471</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2011-01-01"/>
+						<period-end iso-date="2011-12-31"/>
+						<value currency="USD" value-date="2011-12-31">1083377</value>
+					</budget>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2013-12-31">635587</value>
+						<transaction-date iso-date="2013-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2012-12-31">971402</value>
+						<transaction-date iso-date="2012-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2011-12-31">62497</value>
+						<transaction-date iso-date="2011-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">1009215</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>	
+					<policy-marker code="1" vocabulary="DAC" significance="0">Gender Equality</policy-marker>
+						<location>
+							<location-type code="PCL" />
+							<name>Russia</name>
+							<description>Russia</description>
+							<coordinates latitude="60" longitude="100" precision="9" />
+							<administrative country="RU" adm1="Moscow" adm2="Severnyy Administrativnyy Okrug" />
+							<gazetteer-entry gazetteer-ref="GEO"></gazetteer-entry>
+						</location>
+					<activity-scope code="4" xml:lang="en">National</activity-scope>
+					
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="1">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<iati-identifier>41114-PROJECT-00060984</iati-identifier>
+					<activity-status code="2">Implementation</activity-status>
+					<related-activity type="2" ref="41114-OUTPUT-00077026"></related-activity>
+					<title xml:lang="en">Biodiversity mainstreaming into Russia's energy sector</title>
+					<description xml:lang="en" type="1">Mainstreaming biodiversity conservation into Russia's energy sector policies and operations</description>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<participating-org role="Funding" type="70" ref="11506">Sakhalin Energy Investment Company Ltd</participating-org>
+					<participating-org role="Funding" type="70" ref="11681">OJSC-OC ROSNEFT</participating-org>
+					<participating-org role="Funding" type="70" ref="11702">JSFC "Sistema"</participating-org>
+					<participating-org role="Funding" type="" ref="12212"></participating-org>
+					<participating-org role="Implementing" type="10" ref="02656">GOVERNMENT</participating-org>
+					<participating-org role="Accountable" type="10" ref="02656">GOVERNMENT</participating-org>
+					
+					<activity-date type="start-planned" iso-date="2011-12-01">2011-12-01</activity-date>
+					<activity-date type="start-actual" iso-date="2011-12-01">2011-12-01</activity-date>					
+					<activity-date type="end-planned" iso-date="2017-12-31">2017-12-31</activity-date>
+					
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					
+					<contact-info><email>registry.ru@undp.org</email></contact-info>
+					<activity-website>http://www.undp.ru/</activity-website>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/projects/RUS/00060984%5F4241%20Russia%20BD%20mainstreaming%20energy%20CEO%20request%2014%20dec%2010%20for%20PTAnl%2Edoc" format="application/msword" xml:lang="en"> 
+						<title>FINANCING PLAN (IN US$):</title>
+						<category code="A05" xml:lang="en">Budget</category>
+					</document-link>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Budget/RUS.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>RUS</title>
+						<category code="A05" xml:lang="en">Budget</category>
+					</document-link>
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+					<conditions attached="0"></conditions>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="2">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					<iati-identifier>41114-OUTPUT-00077026</iati-identifier>
+					<related-activity type="1" ref="41114-PROJECT-00060984"></related-activity>
+					<title xml:lang="en">BD mainstreaming into energy</title>
+					<description xml:lang="en" type="1">Mainstreaming biodiversity conservation into Russia's energy sector policies and operations</description>
+					<sector vocabulary="DAC" code="41010">Environmental policy and administrative management</sector>
+					<sector vocabulary="RO" code="4">Environment &amp; sustainable development</sector>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<participating-org role="Funding" type="70" ref="11506">Sakhalin Energy Investment Company Ltd</participating-org>
+					<participating-org role="Funding" type="70" ref="11681">OJSC-OC ROSNEFT</participating-org>
+					<participating-org role="Funding" type="70" ref="11702">JSFC "Sistema"</participating-org>
+					<participating-org role="Funding" type="" ref="12212"></participating-org>
+					<budget type="2">
+						<period-start iso-date="2014-01-01"/>
+						<period-end iso-date="2014-12-31"/>
+						<value currency="USD" value-date="2014-05-31">1048360</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2013-01-01"/>
+						<period-end iso-date="2013-12-31"/>
+						<value currency="USD" value-date="2013-12-31">718795</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2012-01-01"/>
+						<period-end iso-date="2012-12-31"/>
+						<value currency="USD" value-date="2012-12-31">100000</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2011-01-01"/>
+						<period-end iso-date="2011-12-31"/>
+						<value currency="USD" value-date="2011-12-31">327</value>
+					</budget>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2014-05-31">240285</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2013-12-31">523826</value>
+						<transaction-date iso-date="2013-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2012-12-31">25868</value>
+						<transaction-date iso-date="2012-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2011-12-31">327</value>
+						<transaction-date iso-date="2011-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">1042800</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">98744</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">5189</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="11506">Sakhalin Energy Investment Company Ltd</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="11506">Sakhalin Energy Investment Company Ltd</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">217</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="11681">OJSC-OC ROSNEFT</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="11681">OJSC-OC ROSNEFT</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">154</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="11702">JSFC "Sistema"</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="11702">JSFC "Sistema"</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="12212"></provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">3364</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="12212"></provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>	
+					<policy-marker code="1" vocabulary="DAC" significance="0">Gender Equality</policy-marker>
+						<location>
+							<location-type code="PCL" />
+							<name>Russia</name>
+							<description>Russia</description>
+							<coordinates latitude="60" longitude="100" precision="9" />
+							<administrative country="RU" adm1="Moscow" adm2="Severnyy Administrativnyy Okrug" />
+							<gazetteer-entry gazetteer-ref="GEO"></gazetteer-entry>
+						</location>
+					<activity-scope code="4" xml:lang="en">National</activity-scope>
+					
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="1">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<iati-identifier>41114-PROJECT-00059438</iati-identifier>
+					<activity-status code="2">Implementation</activity-status>
+					<related-activity type="2" ref="41114-OUTPUT-00074315"></related-activity>
+					<title xml:lang="en">Building EE in North West of Russia</title>
+					<description xml:lang="en" type="1">Buildings energy efficiency in the North West of Russia</description>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<participating-org role="Implementing" type="10" ref="02668">NEX</participating-org>
+					<participating-org role="Accountable" type="10" ref="02668">NEX</participating-org>
+					
+					<activity-date type="start-planned" iso-date="2011-01-01">2011-01-01</activity-date>
+					<activity-date type="start-actual" iso-date="2011-01-01">2011-01-01</activity-date>					
+					<activity-date type="end-planned" iso-date="2015-12-31">2015-12-31</activity-date>
+					
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					
+					<contact-info><email>registry.ru@undp.org</email></contact-info>
+					<activity-website>http://www.undp.ru/</activity-website>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/projects/RUS/00059438%5FFOR%5FRESUB%5F4131%20Russia%20EE%20NW%20EE%20Bldgs%20prodoc%5Fv9%5FAug%5F9%5F2010%2Edoc" format="application/msword" xml:lang="en"> 
+						<title>Project Document - Deliverable Description</title>
+						<category code="A01">Pre- and post-project impact appraisal </category>
+						<category code="A02">Objectives / Purpose of activity </category>
+						<category code="A03">Intended ultimate beneficiaries </category>
+						<category code="A04">Condition</category>
+						<category code="A05">Budget</category>
+						<category code="A08">Results, outcomes and outputs</category>
+					</document-link>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Budget/RUS.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>RUS</title>
+						<category code="A05" xml:lang="en">Budget</category>
+					</document-link>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Contract.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>Contract</title>
+						<category code="A06" xml:lang="en">Summary Info. about contract</category>
+					</document-link>
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+					<conditions attached="0"></conditions>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="2">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					<iati-identifier>41114-OUTPUT-00074315</iati-identifier>
+					<related-activity type="1" ref="41114-PROJECT-00059438"></related-activity>
+					<title xml:lang="en">PIMS 4131 CC FSP: Building EE</title>
+					<description xml:lang="en" type="1">Building energy efficiency in the North West of Russia</description>
+					<sector vocabulary="DAC" code="41010">Environmental policy and administrative management</sector>
+					<sector vocabulary="RO" code="4">Environment &amp; sustainable development</sector>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<budget type="2">
+						<period-start iso-date="2014-01-01"/>
+						<period-end iso-date="2014-12-31"/>
+						<value currency="USD" value-date="2014-05-31">924109</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2013-01-01"/>
+						<period-end iso-date="2013-12-31"/>
+						<value currency="USD" value-date="2013-12-31">825492</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2012-01-01"/>
+						<period-end iso-date="2012-12-31"/>
+						<value currency="USD" value-date="2012-12-31">801958</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2011-01-01"/>
+						<period-end iso-date="2011-12-31"/>
+						<value currency="USD" value-date="2011-12-31">96000</value>
+					</budget>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2014-05-31">246777</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2013-12-31">625507</value>
+						<transaction-date iso-date="2013-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2012-12-31">725904</value>
+						<transaction-date iso-date="2012-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2011-12-31">86086</value>
+						<transaction-date iso-date="2011-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">924109</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">119477</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>	
+					<policy-marker code="1" vocabulary="DAC" significance="0">Gender Equality</policy-marker>
+						<location>
+							<location-type code="PPLA" />
+							<name>Vologda, Russia</name>
+							<description>Vologda, Russia</description>
+							<coordinates latitude="59.2187" longitude="39.8886" precision="3" />
+							<administrative country="RU" adm1="Vologda" adm2="Gryazovetskiy Rayon" />
+							<gazetteer-entry gazetteer-ref="GEO"></gazetteer-entry>
+						</location>
+					<activity-scope code="8" xml:lang="en">Single Location</activity-scope>
+					
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="1">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<iati-identifier>41114-PROJECT-00057337</iati-identifier>
+					<activity-status code="2">Implementation</activity-status>
+					<related-activity type="2" ref="41114-OUTPUT-00070781"></related-activity>
+					<title xml:lang="en">Energy Efficiency Standards and Labels</title>
+					<description xml:lang="en" type="1">Standards and labels to promote energy efficiency in Russia</description>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<participating-org role="Implementing" type="10" ref="02668">NEX</participating-org>
+					<participating-org role="Accountable" type="10" ref="02668">NEX</participating-org>
+					
+					<activity-date type="start-planned" iso-date="2010-06-25">2010-06-25</activity-date>
+					<activity-date type="start-actual" iso-date="2010-06-25">2010-06-25</activity-date>					
+					<activity-date type="end-planned" iso-date="2015-12-31">2015-12-31</activity-date>
+					
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					
+					<contact-info><email>registry.ru@undp.org</email></contact-info>
+					<activity-website>http://www.undp.ru/</activity-website>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/projects/RUS/00057337%5F3550%20PRODOC%20FSP%20Russia%20for%20resubmission%20100210%2Edoc" format="application/msword" xml:lang="en"> 
+						<title>FINANCING PLAN (IN US$):</title>
+						<category code="A01">Pre- and post-project impact appraisal </category>
+						<category code="A02">Objectives / Purpose of activity </category>
+						<category code="A03">Intended ultimate beneficiaries </category>
+						<category code="A04">Condition</category>
+						<category code="A05">Budget</category>
+						<category code="A08">Results, outcomes and outputs</category>
+					</document-link>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Budget/RUS.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>RUS</title>
+						<category code="A05" xml:lang="en">Budget</category>
+					</document-link>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Contract.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>Contract</title>
+						<category code="A06" xml:lang="en">Summary Info. about contract</category>
+					</document-link>
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+					<conditions attached="0"></conditions>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="2">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					<iati-identifier>41114-OUTPUT-00070781</iati-identifier>
+					<related-activity type="1" ref="41114-PROJECT-00057337"></related-activity>
+					<title xml:lang="en">Standards and labels for EE</title>
+					<description xml:lang="en" type="1">Standards and labels to promote energy efficiency in Russia</description>
+					<sector vocabulary="DAC" code="41010">Environmental policy and administrative management</sector>
+					<sector vocabulary="RO" code="4">Environment &amp; sustainable development</sector>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<budget type="2">
+						<period-start iso-date="2014-01-01"/>
+						<period-end iso-date="2014-12-31"/>
+						<value currency="USD" value-date="2014-05-31">1329722</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2013-01-01"/>
+						<period-end iso-date="2013-12-31"/>
+						<value currency="USD" value-date="2013-12-31">940896</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2012-01-01"/>
+						<period-end iso-date="2012-12-31"/>
+						<value currency="USD" value-date="2012-12-31">976000</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2011-01-01"/>
+						<period-end iso-date="2011-12-31"/>
+						<value currency="USD" value-date="2011-12-31">1353947</value>
+					</budget>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2014-05-31">226800</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2013-12-31">592662</value>
+						<transaction-date iso-date="2013-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2012-12-31">813749</value>
+						<transaction-date iso-date="2012-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2011-12-31">1353947</value>
+						<transaction-date iso-date="2011-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2010-12-31">22513</value>
+						<transaction-date iso-date="2010-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">1329722</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">342982</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>	
+					<policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+						<location>
+							<location-type code="PPLC" />
+							<name>Moscow</name>
+							<description>Moscow</description>
+							<coordinates latitude="55.75222" longitude="37.61556" precision="3" />
+							<administrative country="RU" adm1="Moscow" adm2="Severnyy Administrativnyy Okrug" />
+							<gazetteer-entry gazetteer-ref="GEO"></gazetteer-entry>
+						</location>
+					<activity-scope code="8" xml:lang="en">Single Location</activity-scope>
+					
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="1">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<iati-identifier>41114-PROJECT-00059436</iati-identifier>
+					<activity-status code="2">Implementation</activity-status>
+					<related-activity type="2" ref="41114-OUTPUT-00074313"></related-activity>
+					<title xml:lang="en">GREENING 2014 SOCHI OLYMPICS</title>
+					<description xml:lang="en" type="1">Greening 2014 Sochi Olympics: A Strategy and Action Plan for the Greening Legacy</description>
+					<participating-org role="Funding" type="10" ref="00248">GOVERNMENT OF UNITED KINGDOM</participating-org>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<participating-org role="Implementing" type="10" ref="02668">NEX</participating-org>
+					<participating-org role="Accountable" type="10" ref="02668">NEX</participating-org>
+					
+					<activity-date type="start-planned" iso-date="2010-04-01">2010-04-01</activity-date>
+					<activity-date type="start-actual" iso-date="2010-04-01">2010-04-01</activity-date>					
+					<activity-date type="end-planned" iso-date="2014-03-31">2014-03-31</activity-date>
+					<activity-date type="end-actual" iso-date="2014-03-31">2014-03-31</activity-date>
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					
+					<contact-info><email>registry.ru@undp.org</email></contact-info>
+					<activity-website>http://www.undp.ru/</activity-website>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/projects/RUS/00059436%5FProdoc%20signed%20Sochi%2Epdf" format="application/pdf" xml:lang="en"> 
+						<title>00059436_Prodoc signed Sochi.pdf</title>
+						<category code="A01">Pre- and post-project impact appraisal </category>
+						<category code="A02">Objectives / Purpose of activity </category>
+						<category code="A03">Intended ultimate beneficiaries </category>
+						<category code="A04">Condition</category>
+						<category code="A05">Budget</category>
+						<category code="A08">Results, outcomes and outputs</category>
+					</document-link>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Budget/RUS.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>RUS</title>
+						<category code="A05" xml:lang="en">Budget</category>
+					</document-link>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Contract.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>Contract</title>
+						<category code="A06" xml:lang="en">Summary Info. about contract</category>
+					</document-link>
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+					<conditions attached="0"></conditions>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="2">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					<iati-identifier>41114-OUTPUT-00074313</iati-identifier>
+					<related-activity type="1" ref="41114-PROJECT-00059436"></related-activity>
+					<title xml:lang="en">PIMS 4320 CC MSP: GREENING 201</title>
+					<description xml:lang="en" type="1">The project will introduce a Greening Strategy and Action Plan for the 2014 Winter Olympics in Sochi.</description>
+					<sector vocabulary="DAC" code="41010">Environmental policy and administrative management</sector>
+					<sector vocabulary="RO" code="4">Environment &amp; sustainable development</sector>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<budget type="2">
+						<period-start iso-date="2014-01-01"/>
+						<period-end iso-date="2014-12-31"/>
+						<value currency="USD" value-date="2014-05-31">113500</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2013-01-01"/>
+						<period-end iso-date="2013-12-31"/>
+						<value currency="USD" value-date="2013-12-31">469849</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2012-01-01"/>
+						<period-end iso-date="2012-12-31"/>
+						<value currency="USD" value-date="2012-12-31">537665</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2011-01-01"/>
+						<period-end iso-date="2011-12-31"/>
+						<value currency="USD" value-date="2011-12-31">485116</value>
+					</budget>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2014-05-31">58677</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2013-12-31">377783</value>
+						<transaction-date iso-date="2013-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2012-12-31">370625</value>
+						<transaction-date iso-date="2012-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2011-12-31">77380</value>
+						<transaction-date iso-date="2011-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">113500</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">4302</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>	
+					<policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+						<location>
+							<location-type code="PPL" />
+							<name>Sochi, Russia</name>
+							<description>Sochi, Russia</description>
+							<coordinates latitude="43.59917" longitude="39.72569" precision="3" />
+							<administrative country="RU" adm1="Krasnodarskiy" adm2="Sochi City" />
+							<gazetteer-entry gazetteer-ref="GEO"></gazetteer-entry>
+						</location>
+					<activity-scope code="8" xml:lang="en">Single Location</activity-scope>
+					
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="1">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<iati-identifier>41114-PROJECT-00048772</iati-identifier>
+					<activity-status code="2">Implementation</activity-status>
+					<related-activity type="2" ref="41114-OUTPUT-00059042"></related-activity>
+					<title xml:lang="en">Komi Protected Areas System Strengthening</title>
+					<description xml:lang="en" type="1">Strengthening Protected Area System of the Komi Republic to Conserve Virgin Forest Biodiversity in the Pechora River Headwaters Region</description>
+					<participating-org role="Funding" type="10" ref="00117">GOVERNMENT OF GERMANY</participating-org>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<participating-org role="Funding" type="40" ref="10159">EUROPEAN COMMISSION</participating-org>
+					<participating-org role="Implementing" type="10" ref="02668">NEX</participating-org>
+					<participating-org role="Accountable" type="10" ref="02668">NEX</participating-org>
+					
+					<activity-date type="start-planned" iso-date="2008-07-22">2008-07-22</activity-date>
+					<activity-date type="start-actual" iso-date="2008-07-22">2008-07-22</activity-date>					
+					<activity-date type="end-planned" iso-date="2016-12-31">2016-12-31</activity-date>
+					
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					
+					<contact-info><email>registry.ru@undp.org</email></contact-info>
+					<activity-website>http://www.undp.ru/</activity-website>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/projects/RUS/00048772%5FClimaEast%20Rus%20Komi%20NAO%20perfmafrost%20English%20120608%2Edoc" format="application/msword" xml:lang="en"> 
+						<title>Conservation and sustainable management of peatlands in Russia, Belarus, and Ukraine to minimize carbon emissions and help ecosystems to adapt to climate change</title>
+						<category code="A01">Pre- and post-project impact appraisal </category>
+						<category code="A02">Objectives / Purpose of activity </category>
+						<category code="A03">Intended ultimate beneficiaries </category>
+						<category code="A04">Condition</category>
+						<category code="A05">Budget</category>
+						<category code="A08">Results, outcomes and outputs</category>
+					</document-link>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Budget/RUS.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>RUS</title>
+						<category code="A05" xml:lang="en">Budget</category>
+					</document-link>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Contract.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>Contract</title>
+						<category code="A06" xml:lang="en">Summary Info. about contract</category>
+					</document-link>
+					<document-link url="http://erc.undp.org/evaluationadmin/manageevaluation/viewevaluationdetail.html?evalid=5351" format="text/html" xml:lang="en"> 
+						<title>Strengthening Protected Area System of the Komi Republic to Conserve Virgin Forest Biodiversity in the Pechora River Headwaters Region</title>
+						<category code="A07" xml:lang="en">Review of project performance and evaluation</category>
+					</document-link>
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+					<conditions attached="0"></conditions>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="2">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					<iati-identifier>41114-OUTPUT-00059042</iati-identifier>
+					<related-activity type="1" ref="41114-PROJECT-00048772"></related-activity>
+					<title xml:lang="en">Komi Protected Areas</title>
+					<description xml:lang="en" type="1">Strengthening Protected Area System of the Komi Republic to Conserve Virgin Forest Biodiversity in the Pechora River Headwaters Region</description>
+					<sector vocabulary="DAC" code="41010">Environmental policy and administrative management</sector>
+					<sector vocabulary="RO" code="4">Environment &amp; sustainable development</sector>
+					<participating-org role="Funding" type="10" ref="00117">GOVERNMENT OF GERMANY</participating-org>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<participating-org role="Funding" type="40" ref="10159">EUROPEAN COMMISSION</participating-org>
+					<budget type="2">
+						<period-start iso-date="2014-01-01"/>
+						<period-end iso-date="2014-12-31"/>
+						<value currency="USD" value-date="2014-05-31">1636098</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2013-01-01"/>
+						<period-end iso-date="2013-12-31"/>
+						<value currency="USD" value-date="2013-12-31">2467488</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2012-01-01"/>
+						<period-end iso-date="2012-12-31"/>
+						<value currency="USD" value-date="2012-12-31">2261616</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2011-01-01"/>
+						<period-end iso-date="2011-12-31"/>
+						<value currency="USD" value-date="2011-12-31">2320679</value>
+					</budget>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2014-05-31">306999</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2013-12-31">2100595</value>
+						<transaction-date iso-date="2013-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2012-12-31">2092445</value>
+						<transaction-date iso-date="2012-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2011-12-31">2183333</value>
+						<transaction-date iso-date="2011-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2010-12-31">1790157</value>
+						<transaction-date iso-date="2010-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00117">GOVERNMENT OF GERMANY</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00117">GOVERNMENT OF GERMANY</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">190905</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">69106</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">1445193</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10159">EUROPEAN COMMISSION</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10159">EUROPEAN COMMISSION</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>	
+					<policy-marker code="1" vocabulary="DAC" significance="0">Gender Equality</policy-marker>
+						<location>
+							<location-type code="PPLA" />
+							<name>Komi Republic</name>
+							<description>Komi Republic</description>
+							<coordinates latitude="63.1528" longitude="55.8281" precision="3" />
+							<administrative country="RU" adm1="Kemerovo" adm2="Yurginskiy Rayon" />
+							<gazetteer-entry gazetteer-ref="GEO"></gazetteer-entry>
+						</location>
+					<activity-scope code="8" xml:lang="en">Single Location</activity-scope>
+					
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="1">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<iati-identifier>41114-PROJECT-00058420</iati-identifier>
+					<activity-status code="2">Implementation</activity-status>
+					<related-activity type="2" ref="41114-OUTPUT-00072576"></related-activity>
+					<title xml:lang="en">Lighting Energy Efficiency</title>
+					<description xml:lang="en" type="1">Transforming the market for efficient lighting in Russia</description>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<participating-org role="Implementing" type="10" ref="02668">NEX</participating-org>
+					<participating-org role="Accountable" type="10" ref="02668">NEX</participating-org>
+					
+					<activity-date type="start-planned" iso-date="2010-03-01">2010-03-01</activity-date>
+					<activity-date type="start-actual" iso-date="2010-03-01">2010-03-01</activity-date>					
+					<activity-date type="end-planned" iso-date="2015-12-31">2015-12-31</activity-date>
+					
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					
+					<contact-info><email>registry.ru@undp.org</email></contact-info>
+					<activity-website>http://www.undp.ru/</activity-website>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/projects/RUS/00058420%5F4160%5FProdoc%5FRussia%5FEE%5FLighting%20engl%20for%20signature%20Final%20100406%2Edoc" format="application/msword" xml:lang="en"> 
+						<title>FINANCING PLAN (IN US$):</title>
+						<category code="A01">Pre- and post-project impact appraisal </category>
+						<category code="A02">Objectives / Purpose of activity </category>
+						<category code="A03">Intended ultimate beneficiaries </category>
+						<category code="A04">Condition</category>
+						<category code="A05">Budget</category>
+						<category code="A08">Results, outcomes and outputs</category>
+					</document-link>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Budget/RUS.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>RUS</title>
+						<category code="A05" xml:lang="en">Budget</category>
+					</document-link>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Contract.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>Contract</title>
+						<category code="A06" xml:lang="en">Summary Info. about contract</category>
+					</document-link>
+					<document-link url="http://erc.undp.org/evaluationadmin/manageevaluation/viewevaluationdetail.html?evalid=5356" format="text/html" xml:lang="en"> 
+						<title>Transforming the market for efficient lighting</title>
+						<category code="A07" xml:lang="en">Review of project performance and evaluation</category>
+					</document-link>
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+					<conditions attached="0"></conditions>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="2">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					<iati-identifier>41114-OUTPUT-00072576</iati-identifier>
+					<related-activity type="1" ref="41114-PROJECT-00058420"></related-activity>
+					<title xml:lang="en">Lighting Energy Efficiency</title>
+					<description xml:lang="en" type="1">Transforming the Market for Efficient Lighting in the Russian Federation</description>
+					<sector vocabulary="DAC" code="41010">Environmental policy and administrative management</sector>
+					<sector vocabulary="RO" code="4">Environment &amp; sustainable development</sector>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<budget type="2">
+						<period-start iso-date="2014-01-01"/>
+						<period-end iso-date="2014-12-31"/>
+						<value currency="USD" value-date="2014-05-31">1275910</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2013-01-01"/>
+						<period-end iso-date="2013-12-31"/>
+						<value currency="USD" value-date="2013-12-31">940718</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2012-01-01"/>
+						<period-end iso-date="2012-12-31"/>
+						<value currency="USD" value-date="2012-12-31">950000</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2011-01-01"/>
+						<period-end iso-date="2011-12-31"/>
+						<value currency="USD" value-date="2011-12-31">602657</value>
+					</budget>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2014-05-31">208434</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2013-12-31">554186</value>
+						<transaction-date iso-date="2013-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2012-12-31">687689</value>
+						<transaction-date iso-date="2012-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2011-12-31">556634</value>
+						<transaction-date iso-date="2011-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2010-12-31">237878</value>
+						<transaction-date iso-date="2010-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">1275910</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">29007</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>	
+					<policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+						<location>
+							<location-type code="PPL" />
+							<name>Lugansk, Ukraine</name>
+							<description>Lugansk, Ukraine</description>
+							<coordinates latitude="53.62197" longitude="77.59906" precision="3" />
+							<administrative country="RU" adm1="Novosibirsk" adm2="Lugansk" />
+							<gazetteer-entry gazetteer-ref="GEO"></gazetteer-entry>
+						</location>
+					<activity-scope code="8" xml:lang="en">Single Location</activity-scope>
+					
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="1">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<iati-identifier>41114-PROJECT-00056530</iati-identifier>
+					<activity-status code="2">Implementation</activity-status>
+					<related-activity type="2" ref="41114-OUTPUT-00069210"></related-activity>
+					<title xml:lang="en">Marine and Coastal PAs of Russia</title>
+					<description xml:lang="en" type="1">Strengthening the Marine and Coastal Protected Areas of Russia</description>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<participating-org role="Implementing" type="10" ref="02668">NEX</participating-org>
+					<participating-org role="Accountable" type="10" ref="02668">NEX</participating-org>
+					
+					<activity-date type="start-planned" iso-date="2009-07-01">2009-07-01</activity-date>
+					<activity-date type="start-actual" iso-date="2009-07-01">2009-07-01</activity-date>					
+					<activity-date type="end-planned" iso-date="2014-12-31">2014-12-31</activity-date>
+					<activity-date type="end-actual" iso-date="2014-12-31">2014-12-31</activity-date>
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					
+					<contact-info><email>registry.ru@undp.org</email></contact-info>
+					<activity-website>http://www.undp.ru/</activity-website>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/projects/RUS/00056530%5F4051%20Russia%20MCPAProDoc%20for%20DOA%20submission%20April%202009%2Edoc" format="application/msword" xml:lang="en"> 
+						<title>FINANCING PLAN (IN US$):</title>
+						<category code="A01">Pre- and post-project impact appraisal </category>
+						<category code="A02">Objectives / Purpose of activity </category>
+						<category code="A03">Intended ultimate beneficiaries </category>
+						<category code="A04">Condition</category>
+						<category code="A05">Budget</category>
+						<category code="A08">Results, outcomes and outputs</category>
+					</document-link>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Budget/RUS.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>RUS</title>
+						<category code="A05" xml:lang="en">Budget</category>
+					</document-link>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Contract.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>Contract</title>
+						<category code="A06" xml:lang="en">Summary Info. about contract</category>
+					</document-link>
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+					<conditions attached="0"></conditions>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="2">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					<iati-identifier>41114-OUTPUT-00069210</iati-identifier>
+					<related-activity type="1" ref="41114-PROJECT-00056530"></related-activity>
+					<title xml:lang="en">PIMS 4051 BD FSP MCPAs Russia</title>
+					<description xml:lang="en" type="1">Project Title: Strengthening the Marine and Coastal Protected Areas of Russia</description>
+					<sector vocabulary="DAC" code="41010">Environmental policy and administrative management</sector>
+					<sector vocabulary="RO" code="4">Environment &amp; sustainable development</sector>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<budget type="2">
+						<period-start iso-date="2014-01-01"/>
+						<period-end iso-date="2014-12-31"/>
+						<value currency="USD" value-date="2014-05-31">749777</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2013-01-01"/>
+						<period-end iso-date="2013-12-31"/>
+						<value currency="USD" value-date="2013-12-31">1076200</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2012-01-01"/>
+						<period-end iso-date="2012-12-31"/>
+						<value currency="USD" value-date="2012-12-31">913920</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2011-01-01"/>
+						<period-end iso-date="2011-12-31"/>
+						<value currency="USD" value-date="2011-12-31">849235</value>
+					</budget>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2014-05-31">68037</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2013-12-31">934908</value>
+						<transaction-date iso-date="2013-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2012-12-31">907562</value>
+						<transaction-date iso-date="2012-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2011-12-31">849235</value>
+						<transaction-date iso-date="2011-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2010-12-31">346027</value>
+						<transaction-date iso-date="2010-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">749777</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">34857</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>	
+					<policy-marker code="1" vocabulary="DAC" significance="0">Gender Equality</policy-marker>
+						<location>
+							<location-type code="PCL" />
+							<name>Russia</name>
+							<description>Russia</description>
+							<coordinates latitude="60" longitude="100" precision="9" />
+							<administrative country="RU" adm1="Moscow" adm2="Severnyy Administrativnyy Okrug" />
+							<gazetteer-entry gazetteer-ref="GEO"></gazetteer-entry>
+						</location>
+					<activity-scope code="4" xml:lang="en">National</activity-scope>
+					
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="1">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<iati-identifier>41114-PROJECT-00014611</iati-identifier>
+					<activity-status code="3">Completion</activity-status>
+					<related-activity type="2" ref="41114-OUTPUT-00014611"></related-activity>
+					<title xml:lang="en">NHDR</title>
+					<description xml:lang="en" type="1">National Human Development Report</description>
+					<participating-org role="Funding" type="40" ref="00031">UNITED NATIONS POPULATION FUND</participating-org>
+					<participating-org role="Funding" type="10" ref="00206">GOVERNMENT OF RUSSIAN FEDERATION</participating-org>
+					<participating-org role="Funding" type="10" ref="01655">RUS-RUSSIAN GOVERNMENT</participating-org>
+					<participating-org role="Funding" type="70" ref="10836">MOSCOW STATE UNIVERSITY</participating-org>
+					<participating-org role="Implementing" type="10" ref="02656">GOVERNMENT</participating-org>
+					<participating-org role="Accountable" type="10" ref="02656">GOVERNMENT</participating-org>
+					
+					<activity-date type="start-planned" iso-date="2001-07-01">2001-07-01</activity-date>
+					<activity-date type="start-actual" iso-date="2001-07-01">2001-07-01</activity-date>					
+					<activity-date type="end-planned" iso-date="2014-12-31">2014-12-31</activity-date>
+					<activity-date type="end-actual" iso-date="2014-12-31">2014-12-31</activity-date>
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					
+					<contact-info><email>registry.ru@undp.org</email></contact-info>
+					<activity-website>http://www.undp.ru/</activity-website>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/projects/RUS/00014611%5FHD%2DProDoc%2Edoc" format="application/msword" xml:lang="en"> 
+						<title>Project Document</title>
+						<category code="A01">Pre- and post-project impact appraisal </category>
+						<category code="A02">Objectives / Purpose of activity </category>
+						<category code="A03">Intended ultimate beneficiaries </category>
+						<category code="A04">Condition</category>
+						<category code="A05">Budget</category>
+						<category code="A08">Results, outcomes and outputs</category>
+					</document-link>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Budget/RUS.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>RUS</title>
+						<category code="A05" xml:lang="en">Budget</category>
+					</document-link>
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+					<conditions attached="0"></conditions>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="2">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					<iati-identifier>41114-OUTPUT-00014611</iati-identifier>
+					<related-activity type="1" ref="41114-PROJECT-00014611"></related-activity>
+					<title xml:lang="en">NHDR</title>
+					<description xml:lang="en" type="1">NHDR</description>
+					<sector vocabulary="DAC" code="99810">Sectors Not Specified</sector>
+					
+					<participating-org role="Funding" type="10" ref="00206">GOVERNMENT OF RUSSIAN FEDERATION</participating-org>
+					<participating-org role="Funding" type="10" ref="01655">RUS-RUSSIAN GOVERNMENT</participating-org>
+					<participating-org role="Funding" type="70" ref="10836">MOSCOW STATE UNIVERSITY</participating-org>
+					<budget type="2">
+						<period-start iso-date="2014-01-01"/>
+						<period-end iso-date="2014-12-31"/>
+						<value currency="USD" value-date="2014-05-31">19</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2013-01-01"/>
+						<period-end iso-date="2013-12-31"/>
+						<value currency="USD" value-date="2013-12-31">125505</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2012-01-01"/>
+						<period-end iso-date="2012-12-31"/>
+						<value currency="USD" value-date="2012-12-31">403494</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2011-01-01"/>
+						<period-end iso-date="2011-12-31"/>
+						<value currency="USD" value-date="2011-12-31">312848</value>
+					</budget>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2013-12-31">123105</value>
+						<transaction-date iso-date="2013-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2012-12-31">198739</value>
+						<transaction-date iso-date="2012-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2011-12-31">164487</value>
+						<transaction-date iso-date="2011-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2010-12-31">337088</value>
+						<transaction-date iso-date="2010-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">34</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00206">GOVERNMENT OF RUSSIAN FEDERATION</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00206">GOVERNMENT OF RUSSIAN FEDERATION</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">36</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="01655">RUS-RUSSIAN GOVERNMENT</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="01655">RUS-RUSSIAN GOVERNMENT</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">-51</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10836">MOSCOW STATE UNIVERSITY</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10836">MOSCOW STATE UNIVERSITY</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>	
+					<policy-marker code="1" vocabulary="DAC" significance="0">Gender Equality</policy-marker>
+						<location>
+							<location-type code="PCL" />
+							<name>Russia</name>
+							<description>Russia</description>
+							<coordinates latitude="60" longitude="100" precision="9" />
+							<administrative country="RU" adm1="Moscow" adm2="Severnyy Administrativnyy Okrug" />
+							<gazetteer-entry gazetteer-ref="GEO"></gazetteer-entry>
+						</location>
+					<activity-scope code="4" xml:lang="en">National</activity-scope>
+					
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="1">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<iati-identifier>41114-PROJECT-00073068</iati-identifier>
+					<activity-status code="2">Implementation</activity-status>
+					<related-activity type="2" ref="41114-OUTPUT-00086032"></related-activity>
+					<title xml:lang="en">PIMS 4430 MFA PPG: Altay-Sayan SLM&amp;CCM</title>
+					<description xml:lang="en" type="1">This PPG is to develop a full project document for a UNDP/GEF projectaddressing barriers and demonstrating solutions to sustainable land management and ecosystem-based climate change mitigation in the Altai-Sayan Ecoregion.PIMS 4430</description>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<participating-org role="Implementing" type="40" ref="99999">UNDP</participating-org>
+					<participating-org role="Accountable" type="40" ref="99999">UNDP</participating-org>
+					
+					<activity-date type="start-planned" iso-date="2013-02-01">2013-02-01</activity-date>
+					<activity-date type="start-actual" iso-date="2013-02-01">2013-02-01</activity-date>					
+					<activity-date type="end-planned" iso-date="2014-09-01">2014-09-01</activity-date>
+					<activity-date type="end-actual" iso-date="2014-09-01">2014-09-01</activity-date>
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					
+					<contact-info><email>registry.ru@undp.org</email></contact-info>
+					<activity-website>http://www.undp.ru/</activity-website>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/projects/RUS/4430%20IP%2DPPG%20Altay%20SLM%20130314%2Edoc" format="application/msword" xml:lang="en"> 
+						<title>PPG Initiation Plan</title>
+						<category code="A01">Pre- and post-project impact appraisal </category>
+						<category code="A02">Objectives / Purpose of activity </category>
+						<category code="A03">Intended ultimate beneficiaries </category>
+						<category code="A04">Condition</category>
+						<category code="A05">Budget</category>
+						<category code="A08">Results, outcomes and outputs</category>
+					</document-link>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Budget/RUS.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>RUS</title>
+						<category code="A05" xml:lang="en">Budget</category>
+					</document-link>
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+					<conditions attached="0"></conditions>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="2">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					<iati-identifier>41114-OUTPUT-00086032</iati-identifier>
+					<related-activity type="1" ref="41114-PROJECT-00073068"></related-activity>
+					<title xml:lang="en">PPG Altay-Sayan SLM&amp;CCM</title>
+					<description xml:lang="en" type="1">Sustainable land management and ecosystem-based climate change mitigation in the Altai-Sayan Ecoregion</description>
+					<sector vocabulary="DAC" code="41010">Environmental policy and administrative management</sector>
+					<sector vocabulary="RO" code="4">Environment &amp; sustainable development</sector>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<budget type="2">
+						<period-start iso-date="2014-01-01"/>
+						<period-end iso-date="2014-12-31"/>
+						<value currency="USD" value-date="2014-05-31">179060</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2013-01-01"/>
+						<period-end iso-date="2013-12-31"/>
+						<value currency="USD" value-date="2013-12-31">131400</value>
+					</budget>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2014-05-31">9540</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2013-12-31">15940</value>
+						<transaction-date iso-date="2013-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">179060</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>	
+					<policy-marker code="1" vocabulary="DAC" significance="0">Gender Equality</policy-marker>
+						<location>
+							<location-type code="PCL" />
+							<name>Russia</name>
+							<description>Russia</description>
+							<coordinates latitude="60" longitude="100" precision="9" />
+							<administrative country="RU" adm1="Moscow" adm2="Severnyy Administrativnyy Okrug" />
+							<gazetteer-entry gazetteer-ref="GEO"></gazetteer-entry>
+						</location>
+					<activity-scope code="4" xml:lang="en">National</activity-scope>
+					
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="1">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<iati-identifier>41114-PROJECT-00063294</iati-identifier>
+					<activity-status code="2">Implementation</activity-status>
+					<related-activity type="2" ref="41114-OUTPUT-00080493"></related-activity>
+					<title xml:lang="en">PPG: Bering Sea</title>
+					<description xml:lang="en" type="1">Integrated Adaptive Management Of The West Bering Sea Large Marine Ecosystem In A Changing Climate: preparatory phase</description>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<participating-org role="Implementing" type="40" ref="99999">UNDP</participating-org>
+					<participating-org role="Accountable" type="40" ref="99999">UNDP</participating-org>
+					
+					<activity-date type="start-planned" iso-date="2012-01-01">2012-01-01</activity-date>
+					<activity-date type="start-actual" iso-date="2012-01-01">2012-01-01</activity-date>					
+					<activity-date type="end-planned" iso-date="2014-12-31">2014-12-31</activity-date>
+					<activity-date type="end-actual" iso-date="2014-12-31">2014-12-31</activity-date>
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					
+					<contact-info><email>registry.ru@undp.org</email></contact-info>
+					<activity-website>http://www.undp.ru/</activity-website>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Budget/RUS.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>RUS</title>
+						<category code="A05" xml:lang="en">Budget</category>
+					</document-link>
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+					<conditions attached="0"></conditions>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="2">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					<iati-identifier>41114-OUTPUT-00080493</iati-identifier>
+					<related-activity type="1" ref="41114-PROJECT-00063294"></related-activity>
+					<title xml:lang="en">PIMS 4485 IW PPG Bering</title>
+					<description xml:lang="en" type="1">Integrated adaptive management of the West Bering Sea large marine ecosystem in a changing climate: preparatory phase</description>
+					<sector vocabulary="DAC" code="41010">Environmental policy and administrative management</sector>
+					<sector vocabulary="RO" code="4">Environment &amp; sustainable development</sector>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<budget type="2">
+						<period-start iso-date="2014-01-01"/>
+						<period-end iso-date="2014-12-31"/>
+						<value currency="USD" value-date="2014-05-31">72093</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2013-01-01"/>
+						<period-end iso-date="2013-12-31"/>
+						<value currency="USD" value-date="2013-12-31">40000</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2012-01-01"/>
+						<period-end iso-date="2012-12-31"/>
+						<value currency="USD" value-date="2012-12-31">110000</value>
+					</budget>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2014-05-31">152</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2013-12-31">25332</value>
+						<transaction-date iso-date="2013-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2012-12-31">52575</value>
+						<transaction-date iso-date="2012-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">72093</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>	
+					<policy-marker code="1" vocabulary="DAC" significance="0">Gender Equality</policy-marker>
+						<location>
+							<location-type code="PCL" />
+							<name>Russia</name>
+							<description>Russia</description>
+							<coordinates latitude="60" longitude="100" precision="9" />
+							<administrative country="RU" adm1="Moscow" adm2="Severnyy Administrativnyy Okrug" />
+							<gazetteer-entry gazetteer-ref="GEO"></gazetteer-entry>
+						</location>
+					<activity-scope code="4" xml:lang="en">National</activity-scope>
+					
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="1">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<iati-identifier>41114-PROJECT-00063176</iati-identifier>
+					<activity-status code="2">Implementation</activity-status>
+					<related-activity type="2" ref="41114-OUTPUT-00080462"></related-activity>
+					<title xml:lang="en">Reducing GHG emissions from road transport in Russia</title>
+					<description xml:lang="en" type="1">Reducing GHG emissions from road transport in Russia's medium-sized cities: Russian Urban Sustainable Transport (RUST)</description>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<participating-org role="Implementing" type="10" ref="02656">GOVERNMENT</participating-org>
+					<participating-org role="Accountable" type="10" ref="02656">GOVERNMENT</participating-org>
+					
+					<activity-date type="start-planned" iso-date="2012-10-01">2012-10-01</activity-date>
+					<activity-date type="start-actual" iso-date="2012-10-01">2012-10-01</activity-date>					
+					<activity-date type="end-planned" iso-date="2017-09-30">2017-09-30</activity-date>
+					
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					
+					<contact-info><email>registry.ru@undp.org</email></contact-info>
+					<activity-website>http://www.undp.ru/</activity-website>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Budget/RUS.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>RUS</title>
+						<category code="A05" xml:lang="en">Budget</category>
+					</document-link>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Contract.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>Contract</title>
+						<category code="A06" xml:lang="en">Summary Info. about contract</category>
+					</document-link>
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+					<conditions attached="0"></conditions>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="2">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					<iati-identifier>41114-OUTPUT-00080462</iati-identifier>
+					<related-activity type="1" ref="41114-PROJECT-00063176"></related-activity>
+					<title xml:lang="en">Reducing transport emissions</title>
+					<description xml:lang="en" type="1">Reducing GHG emissions from road transport in Russia's medium-sized cities</description>
+					<sector vocabulary="DAC" code="41010">Environmental policy and administrative management</sector>
+					<sector vocabulary="RO" code="4">Environment &amp; sustainable development</sector>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<budget type="2">
+						<period-start iso-date="2014-01-01"/>
+						<period-end iso-date="2014-12-31"/>
+						<value currency="USD" value-date="2014-05-31">1060703</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2013-01-01"/>
+						<period-end iso-date="2013-12-31"/>
+						<value currency="USD" value-date="2013-12-31">592924</value>
+					</budget>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2014-05-31">70085</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2013-12-31">563624</value>
+						<transaction-date iso-date="2013-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">1060703</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">45095</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>	
+					<policy-marker code="1" vocabulary="DAC" significance="0">Gender Equality</policy-marker>
+						<location>
+							<location-type code="PCL" />
+							<name>Russia</name>
+							<description>Russia</description>
+							<coordinates latitude="60" longitude="100" precision="9" />
+							<administrative country="RU" adm1="Moscow" adm2="Severnyy Administrativnyy Okrug" />
+							<gazetteer-entry gazetteer-ref="GEO"></gazetteer-entry>
+						</location>
+					<activity-scope code="4" xml:lang="en">National</activity-scope>
+					
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="1">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<iati-identifier>41114-PROJECT-00058254</iati-identifier>
+					<activity-status code="2">Implementation</activity-status>
+					<related-activity type="2" ref="41114-OUTPUT-00072294"></related-activity>
+					<title xml:lang="en">Steppe Protected Areas</title>
+					<description xml:lang="en" type="1">Improving the Coverage and Management Efficiency of Protected Areas in the Steppe Biome of Russia</description>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<participating-org role="Funding" type="40" ref="10159">EUROPEAN COMMISSION</participating-org>
+					<participating-org role="Implementing" type="10" ref="02664">Ministry of Natural Resources</participating-org>
+					<participating-org role="Accountable" type="10" ref="02664">Ministry of Natural Resources</participating-org>
+					
+					<activity-date type="start-planned" iso-date="2010-01-01">2010-01-01</activity-date>
+					<activity-date type="start-actual" iso-date="2010-01-01">2010-01-01</activity-date>					
+					<activity-date type="end-planned" iso-date="2015-12-31">2015-12-31</activity-date>
+					
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					
+					<contact-info><email>registry.ru@undp.org</email></contact-info>
+					<activity-website>http://www.undp.ru/</activity-website>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/projects/RUS/00058254%5F4194%20Russia%20Steppe%20SPAProDoc%5F070909%20for%20MNRE%2Edocx" format="application/msword" xml:lang="en"> 
+						<title>FINANCING PLAN (IN US$):</title>
+						<category code="A01">Pre- and post-project impact appraisal </category>
+						<category code="A02">Objectives / Purpose of activity </category>
+						<category code="A03">Intended ultimate beneficiaries </category>
+						<category code="A04">Condition</category>
+						<category code="A05">Budget</category>
+						<category code="A08">Results, outcomes and outputs</category>
+					</document-link>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Budget/RUS.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>RUS</title>
+						<category code="A05" xml:lang="en">Budget</category>
+					</document-link>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Contract.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>Contract</title>
+						<category code="A06" xml:lang="en">Summary Info. about contract</category>
+					</document-link>
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+					<conditions attached="0"></conditions>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="2">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					<iati-identifier>41114-OUTPUT-00072294</iati-identifier>
+					<related-activity type="1" ref="41114-PROJECT-00058254"></related-activity>
+					<title xml:lang="en">PIMS 4194 BD FSP: Steppe Prote</title>
+					<description xml:lang="en" type="1">Improving the Coverage and Management Efficiency of Protected Areas in the Steppe Biome of Russia.</description>
+					<sector vocabulary="DAC" code="41010">Environmental policy and administrative management</sector>
+					<sector vocabulary="RO" code="4">Environment &amp; sustainable development</sector>
+					<participating-org role="Funding" type="40" ref="10003">Global Environment Fund Truste</participating-org>
+					<participating-org role="Funding" type="40" ref="10159">EUROPEAN COMMISSION</participating-org>
+					<budget type="2">
+						<period-start iso-date="2014-01-01"/>
+						<period-end iso-date="2014-12-31"/>
+						<value currency="USD" value-date="2014-05-31">1477736</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2013-01-01"/>
+						<period-end iso-date="2013-12-31"/>
+						<value currency="USD" value-date="2013-12-31">1082136</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2012-01-01"/>
+						<period-end iso-date="2012-12-31"/>
+						<value currency="USD" value-date="2012-12-31">800000</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2011-01-01"/>
+						<period-end iso-date="2011-12-31"/>
+						<value currency="USD" value-date="2011-12-31">765651</value>
+					</budget>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2014-05-31">153119</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2013-12-31">875674</value>
+						<transaction-date iso-date="2013-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2012-12-31">567445</value>
+						<transaction-date iso-date="2012-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2011-12-31">728843</value>
+						<transaction-date iso-date="2011-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2010-12-31">221373</value>
+						<transaction-date iso-date="2010-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">879913</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10003">Global Environment Fund Truste</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">111482</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">597823</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10159">EUROPEAN COMMISSION</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10159">EUROPEAN COMMISSION</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>	
+					<policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+						<location>
+							<location-type code="PCL" />
+							<name>Russia</name>
+							<description>Russia</description>
+							<coordinates latitude="60" longitude="100" precision="9" />
+							<administrative country="RU" adm1="Moscow" adm2="Severnyy Administrativnyy Okrug" />
+							<gazetteer-entry gazetteer-ref="GEO"></gazetteer-entry>
+						</location>
+					<activity-scope code="4" xml:lang="en">National</activity-scope>
+					
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="1">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<iati-identifier>41114-PROJECT-00047784</iati-identifier>
+					<activity-status code="2">Implementation</activity-status>
+					<related-activity type="2" ref="41114-OUTPUT-00057646"></related-activity>
+					<title xml:lang="en">SUPPORT TO NATIONAL EFFORTS TO ACHIEVE MDGS IN THE RF</title>
+					<description xml:lang="en" type="1">Joint UN Russia Team efforts to promote and advocate MDGs</description>
+					<participating-org role="Funding" type="40" ref="00003">INTERNATIONAL LABOUR ORGANIZATION</participating-org>
+					<participating-org role="Funding" type="40" ref="00005">UNITED NATIONS EDUCATIONAL, SCIENTIFIC &amp;&#13;&#10;CULTURAL ORGANIZAITON</participating-org>
+					<participating-org role="Funding" type="40" ref="00006">WORLD HEALTH ORGANIZATION</participating-org>
+					<participating-org role="Funding" type="40" ref="00012">UNITED NATIONS DEVELOPMENT PROGRAMME</participating-org>
+					<participating-org role="Funding" type="40" ref="00023">UN CENTRE FOR HUMAN SETTLEMENTS</participating-org>
+					<participating-org role="Funding" type="40" ref="00028">United Nations Office on Drug and Crime&#10;chgd from UN INTERNATIONAL DRUG CONTROL on april 2011</participating-org>
+					<participating-org role="Funding" type="40" ref="00031">UNITED NATIONS POPULATION FUND</participating-org>
+					<participating-org role="Funding" type="40" ref="00032">UNITED NATIONS DEVELOPMENT FUND FOR WOME</participating-org>
+					<participating-org role="Funding" type="40" ref="00035">UNITED NATIONS CHILDREN'S FUND</participating-org>
+					<participating-org role="Funding" type="40" ref="00037">WORLD FOOD PROGRAMME</participating-org>
+					<participating-org role="Funding" type="40" ref="00040">UN HIGH COMMISSIONER FOR REFUGEES</participating-org>
+					<participating-org role="Funding" type="40" ref="00041">UNITED NATIONS ENVIRONMENT PROGRAMME</participating-org>
+					<participating-org role="Funding" type="40" ref="00043">INTERNATIONAL ORGANIZATION FOR MIGRATION</participating-org>
+					<participating-org role="Funding" type="40" ref="00297">JOINT UNITED NATIONS PROGRAMME ON HIV/AIDS</participating-org>
+					<participating-org role="Funding" type="40" ref="00559">OFFICE OF THE HIGH COMMISSIONER FOR HUMA</participating-org>
+					<participating-org role="Funding" type="40" ref="01863">UN Office in Vienna</participating-org>
+					<participating-org role="Funding" type="40" ref="01865">United Nations Information Centre</participating-org>
+					<participating-org role="Funding" type="40" ref="10103">UNOV, VIENNA</participating-org>
+					<participating-org role="Funding" type="40" ref="10153">UN Department of Safety and Security</participating-org>
+					<participating-org role="Implementing" type="40" ref="99999">UNDP</participating-org>
+					<participating-org role="Accountable" type="40" ref="99999">UNDP</participating-org>
+					
+					<activity-date type="start-planned" iso-date="2007-01-01">2007-01-01</activity-date>
+					<activity-date type="start-actual" iso-date="2007-01-01">2007-01-01</activity-date>					
+					<activity-date type="end-planned" iso-date="2014-12-31">2014-12-31</activity-date>
+					<activity-date type="end-actual" iso-date="2014-12-31">2014-12-31</activity-date>
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					
+					<contact-info><email>registry.ru@undp.org</email></contact-info>
+					<activity-website>http://www.undp.ru/</activity-website>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/projects/RUS/00047784%5FPROJECT%20DOCUMENT%20FOSTERING%20PARTNERSHIPS%20%282%29%2EDOC" format="application/msword" xml:lang="en"> 
+						<title>Cover Page:</title>
+						<category code="A01">Pre- and post-project impact appraisal </category>
+						<category code="A02">Objectives / Purpose of activity </category>
+						<category code="A03">Intended ultimate beneficiaries </category>
+						<category code="A04">Condition</category>
+						<category code="A05">Budget</category>
+						<category code="A08">Results, outcomes and outputs</category>
+					</document-link>
+					<document-link url="http://www.undp.org/content/dam/undp/documents/IATI/Budget/RUS.xlsx" format="application/vnd.ms-excel" xml:lang="en"> 
+						<title>RUS</title>
+						<category code="A05" xml:lang="en">Budget</category>
+					</document-link>
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+					<conditions attached="0"></conditions>
+				</iati-activity>
+				
+				<iati-activity last-updated-datetime="2014-06-17T08:45:00" default-currency="USD" xml:lang="en" hierarchy="2">
+					<reporting-org ref="41114" type="40">United Nations Development Programme</reporting-org>
+					<recipient-country code="RU">Russian Federation</recipient-country>
+					<iati-identifier>41114-OUTPUT-00057646</iati-identifier>
+					<related-activity type="1" ref="41114-PROJECT-00047784"></related-activity>
+					<title xml:lang="en">SUPPORT TO NATIONAL EFFORTS TO</title>
+					<description xml:lang="en" type="1">Joint UN Russia Team activities to promote and advocate MDGs</description>
+					<sector vocabulary="DAC" code="99810">Sectors Not Specified</sector>
+					
+					<participating-org role="Funding" type="40" ref="00003">INTERNATIONAL LABOUR ORGANIZATION</participating-org>
+					<participating-org role="Funding" type="40" ref="00005">UNITED NATIONS EDUCATIONAL, SCIENTIFIC &amp;&#13;&#10;CULTURAL ORGANIZAITON</participating-org>
+					<participating-org role="Funding" type="40" ref="00006">WORLD HEALTH ORGANIZATION</participating-org>
+					<participating-org role="Funding" type="40" ref="00012">UNITED NATIONS DEVELOPMENT PROGRAMME</participating-org>
+					<participating-org role="Funding" type="40" ref="00028">United Nations Office on Drug and Crime&#10;chgd from UN INTERNATIONAL DRUG CONTROL on april 2011</participating-org>
+					<participating-org role="Funding" type="40" ref="00031">UNITED NATIONS POPULATION FUND</participating-org>
+					<participating-org role="Funding" type="40" ref="00032">UNITED NATIONS DEVELOPMENT FUND FOR WOME</participating-org>
+					<participating-org role="Funding" type="40" ref="00035">UNITED NATIONS CHILDREN'S FUND</participating-org>
+					<participating-org role="Funding" type="40" ref="00040">UN HIGH COMMISSIONER FOR REFUGEES</participating-org>
+					<participating-org role="Funding" type="40" ref="00297">JOINT UNITED NATIONS PROGRAMME ON HIV/AIDS</participating-org>
+					<participating-org role="Funding" type="40" ref="00559">OFFICE OF THE HIGH COMMISSIONER FOR HUMA</participating-org>
+					<participating-org role="Funding" type="40" ref="01863">UN Office in Vienna</participating-org>
+					<participating-org role="Funding" type="40" ref="01865">United Nations Information Centre</participating-org>
+					<participating-org role="Funding" type="40" ref="10103">UNOV, VIENNA</participating-org>
+					<participating-org role="Funding" type="40" ref="10153">UN Department of Safety and Security</participating-org>
+					<budget type="2">
+						<period-start iso-date="2014-01-01"/>
+						<period-end iso-date="2014-12-31"/>
+						<value currency="USD" value-date="2014-05-31">26933</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2013-01-01"/>
+						<period-end iso-date="2013-12-31"/>
+						<value currency="USD" value-date="2013-12-31">78453</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2012-01-01"/>
+						<period-end iso-date="2012-12-31"/>
+						<value currency="USD" value-date="2012-12-31">76525</value>
+					</budget>
+					<budget type="2">
+						<period-start iso-date="2011-01-01"/>
+						<period-end iso-date="2011-12-31"/>
+						<value currency="USD" value-date="2011-12-31">120194</value>
+					</budget>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2014-05-31">19820</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2013-12-31">63414</value>
+						<transaction-date iso-date="2013-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2012-12-31">38096</value>
+						<transaction-date iso-date="2012-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="E">Expenditure</transaction-type>
+						<value currency="USD" value-date="2011-12-31">100289</value>
+						<transaction-date iso-date="2011-12-31"></transaction-date>
+						<provider-org ref="41114">United Nations development Programme</provider-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">500</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00003">INTERNATIONAL LABOUR ORGANIZATION</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00003">INTERNATIONAL LABOUR ORGANIZATION</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">1543</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00005">UNITED NATIONS EDUCATIONAL, SCIENTIFIC &amp;&#13;&#10;CULTURAL ORGANIZAITON</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00005">UNITED NATIONS EDUCATIONAL, SCIENTIFIC &amp;&#13;&#10;CULTURAL ORGANIZAITON</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">4281</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00006">WORLD HEALTH ORGANIZATION</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00006">WORLD HEALTH ORGANIZATION</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">1240</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00012">UNITED NATIONS DEVELOPMENT PROGRAMME</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00012">UNITED NATIONS DEVELOPMENT PROGRAMME</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">959</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00028">United Nations Office on Drug and Crime&#10;chgd from UN INTERNATIONAL DRUG CONTROL on april 2011</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00028">United Nations Office on Drug and Crime&#10;chgd from UN INTERNATIONAL DRUG CONTROL on april 2011</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">3935</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00031">UNITED NATIONS POPULATION FUND</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00031">UNITED NATIONS POPULATION FUND</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">2081</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00032">UNITED NATIONS DEVELOPMENT FUND FOR WOME</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00032">UNITED NATIONS DEVELOPMENT FUND FOR WOME</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">1639</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00035">UNITED NATIONS CHILDREN'S FUND</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00035">UNITED NATIONS CHILDREN'S FUND</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">3159</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00040">UN HIGH COMMISSIONER FOR REFUGEES</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00040">UN HIGH COMMISSIONER FOR REFUGEES</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">1460</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00297">JOINT UNITED NATIONS PROGRAMME ON HIV/AIDS</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00297">JOINT UNITED NATIONS PROGRAMME ON HIV/AIDS</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">313</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00559">OFFICE OF THE HIGH COMMISSIONER FOR HUMA</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="00559">OFFICE OF THE HIGH COMMISSIONER FOR HUMA</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="01863">UN Office in Vienna</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="01863">UN Office in Vienna</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">5613</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="01865">United Nations Information Centre</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="01865">United Nations Information Centre</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">200</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10103">UNOV, VIENNA</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10103">UNOV, VIENNA</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="C">Commitment</transaction-type>
+						<value currency="USD" value-date="2014-05-31">11</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10153">UN Department of Safety and Security</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction> 
+					<transaction>
+						<transaction-type code="IF">Incoming funds</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<provider-org ref="10153">UN Department of Safety and Security</provider-org>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>
+					<transaction>
+						<transaction-type code="D">Disbursement</transaction-type>
+						<value currency="USD" value-date="2014-05-31">0</value>
+						<transaction-date iso-date="2014-05-31"></transaction-date>
+						<receiver-org ref="41114">United Nations Development Programme</receiver-org>
+						<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+					</transaction>	
+					<policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+						<location>
+							<location-type code="PCL" />
+							<name>Russia</name>
+							<description>Russia</description>
+							<coordinates latitude="60" longitude="100" precision="9" />
+							<administrative country="RU" adm1="Moscow" adm2="Severnyy Administrativnyy Okrug" />
+							<gazetteer-entry gazetteer-ref="GEO"></gazetteer-entry>
+						</location>
+					<activity-scope code="4" xml:lang="en">National</activity-scope>
+					
+					<default-flow-type code="10">ODA</default-flow-type>
+					<default-aid-type code="C01">Project Type Interventions</default-aid-type>
+					<collaboration-type code="4">Multilateral outflows</collaboration-type>
+					<default-finance-type code="110">Grant</default-finance-type>
+					<default-tied-status code="5">Untied</default-tied-status>
+				</iati-activity>
+				</iati-activities>

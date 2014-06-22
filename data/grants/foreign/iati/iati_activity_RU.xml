@@ -1,0 +1,93 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<iati-activities version="1.03" generated-datetime="2014-02-05T11:55:13.967">
+  <iati-activity default-currency="USD" last-updated-datetime="2014-02-04T15:38:41.197" hierarchy="1" xml:lang="en">
+    <reporting-org ref="41AAA" type="40">United Nations Office for Project Services</reporting-org>
+    <iati-identifier>41AAA-00078735</iati-identifier>
+    <title>Global Environment Facility (GEF) Small Grants Programme, 5th Operational Phase</title>
+    <description type="1">The Small Grants Programme (SGP) is a country-driven and effective delivery mechanism of funds to poor and vulnerable communities enabling them to transform global environment policies into concrete local actions and vice versa through provision of lessons and knowledge from local projects to policy makers. SGP supports innovative piloting and demonstration of new methods and models at local level with scaling up, replication and mainstreaming of successes and lessons learned as eventual end goals. This project will also mainstream the generation of global environment benefits into local development practice by providing financial support to communities to carry out innovative projects in line with the strategic priorities of the GEF as well as local sustainable development objectives. Baseline development activities for GEF financed initiatives that generate global environmental benefits, as well as local development benefits will be funded by continuing the SGP in its fifth Operational Phase (OP5), as well as exploring opportunities for microfinance and large scale projects in support of local sustainable development through additional (non-GEF) sources of financing. UNOPS is executing OP5 on behalf of UNDP-GEF.</description>
+    <activity-status code="2">Implementation</activity-status>
+    <activity-date type="start-actual" iso-date="2011-05-10" />
+    <activity-date type="end-planned" iso-date="2014-12-31" />
+    <contact-info>
+      <organisation>United Nations Office for Project Services</organisation>
+      <person-name>Cillian Domhnall OCATHAIL</person-name>
+      <telephone>4535467600</telephone>
+      <email>info@unops.org</email>
+      <mailing-address>UNOPS HQ, PO Box 2695, 2100 Copenhagen, Denmark</mailing-address>
+    </contact-info>
+    <participating-org role="Implementing" ref="41AAA" type="40">United Nations Office for Project Services</participating-org>
+    <participating-org role="Accountable" ref="41AAA" type="40">United Nations Office for Project Services</participating-org>
+    <participating-org role="Funding">Global Environment Facility (GEF)</participating-org>
+    <recipient-country code="RU">Russian Federation</recipient-country>
+    <recipient-region code="89">Europe, regional</recipient-region>
+    <sector code="41010" percentage="100" vocabulary="DAC">Environmental policy and administrative management</sector>
+    <collaboration-type code="2">Multilateral</collaboration-type>
+    <default-flow-type code="20">OOF</default-flow-type>
+    <default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+    <default-aid-type code="C01">Project-type interventions</default-aid-type>
+    <default-tied-status code="5">Untied</default-tied-status>
+    <location>
+      <name>Russian Federation</name>
+      <description>Russian Federation</description>
+      <location-type code="PCL" />
+      <administrative country="RU">Krasnoyarsk Krai, Evenkiysky District</administrative>
+      <coordinates latitude="61.524009999999997000" longitude="105.318756000000010000" precision="6" />
+    </location>
+    <budget type="Original">
+      <period-start>2013</period-start>
+      <period-end>2013</period-end>
+      <value value-date="2013-01-01" currency="USD">32779</value>
+    </budget>
+    <transaction ref="00078735_2011_2014">
+      <transaction-type code="C">Commitment</transaction-type>
+      <value value-date="2011-01-01" currency="USD">326838274</value>
+      <transaction-date iso-date="2011-01-01">2011</transaction-date>
+      <provider-org>UNDP - Bureau for Development Policy</provider-org>
+      <receiver-org ref="41AAA">United Nations Office for Project Services</receiver-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <description>Total partner commitment</description>
+    </transaction>
+    <transaction ref="00078735_201307">
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-07-01" currency="USD">612</value>
+      <transaction-date iso-date="2013-07-01">2013-July</transaction-date>
+      <provider-org ref="41AAA">United Nations Office for Project Services</provider-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <description>Expenditure for 2013-July</description>
+    </transaction>
+    <transaction ref="00078735_201308">
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-08-01" currency="USD">610</value>
+      <transaction-date iso-date="2013-08-01">2013-August</transaction-date>
+      <provider-org ref="41AAA">United Nations Office for Project Services</provider-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <description>Expenditure for 2013-August</description>
+    </transaction>
+    <transaction ref="00078735_201309">
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-09-01" currency="USD">726</value>
+      <transaction-date iso-date="2013-09-01">2013-September</transaction-date>
+      <provider-org ref="41AAA">United Nations Office for Project Services</provider-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <description>Expenditure for 2013-September</description>
+    </transaction>
+    <transaction ref="00078735_201311">
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-11-01" currency="USD">635</value>
+      <transaction-date iso-date="2013-11-01">2013-November</transaction-date>
+      <provider-org ref="41AAA">United Nations Office for Project Services</provider-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <description>Expenditure for 2013-November</description>
+    </transaction>
+    <transaction ref="00078735_201312">
+      <transaction-type code="E">Expenditure</transaction-type>
+      <value value-date="2013-12-01" currency="USD">-2580</value>
+      <transaction-date iso-date="2013-12-01">2013-December</transaction-date>
+      <provider-org ref="41AAA">United Nations Office for Project Services</provider-org>
+      <disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+      <description>Expenditure for 2013-December</description>
+    </transaction>
+    <conditions attached="0" />
+    <activity-website>https://data.unops.org/index.htm#SegmentCode=ORG&amp;FocusCode=DATA_PROJECTS&amp;EntityCode=PROJECT_ID&amp;EntityValue=00078735</activity-website>
+  </iati-activity>
+</iati-activities>
